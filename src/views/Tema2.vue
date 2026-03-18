@@ -5,7 +5,54 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Educación mediada por TIC
+
+
+
+
+    separador
+    #t_2_1.titulo-segundo.mb-5
+      h2 2.1 Concepto de educación en entornos digitales
+
+
+
+
+
+
+
+
+
+
+
+
+    separador
+    #t_2_2.titulo-segundo.mb-5
+      h2 2.2 Transformaciones pedagógicas
+
+
+
+
+
+
+
+
+
+
+
+
+
+    separador
+    #t_2_3.titulo-segundo.mb-5
+      h2 2.3 Modelos de aprendizaje emergentes
+
+
+
+
+
+
+
+
+
 
 </template>
 

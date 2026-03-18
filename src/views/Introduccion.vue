@@ -21,6 +21,7 @@
     p.mb-4 A lo largo del componente se analizarán los fundamentos sociohistóricos de las TIC, las transformaciones pedagógicas derivadas de su incorporación y la reconfiguración de los roles formativos en entornos digitales. Asimismo, se reflexiona sobre las ventajas, desafíos y aplicaciones prácticas de la educación mediada por tecnologías en la formación académica.
     
     p.mb-5 De esta manera, se contribuye al fortalecimiento de competencias para diseñar, orientar y acompañar procesos formativos pertinentes, innovadores y alineados con las demandas del ecosistema educativo digital actual.
+    
     .row.justify-content-center.align-items-center           
       .col-lg-12
         figure

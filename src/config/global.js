@@ -36,69 +36,101 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Marco normativo y regulatorio',
+        titulo: 'Emergencia de un nuevo tipo de sociedad',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo:
-              'Regulación en Zonas No Interconectadas (ZNI): El papel de la CREG y el IPSE',
+            titulo: 'Globalización y cultura contemporánea',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo:
-              'Estándares técnicos: RETIE y normativas específicas para FNCER',
+            titulo: 'Tecnología y transformación Social',
             hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Tecnología y transformación Social',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Sociedad del conocimiento',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Sociedad de red',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Implicaciones para la educación',
+            hash: 't_1_6',
           },
         ],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Viabilidad y sostenibilidad financiera',
+        titulo: 'Educación mediada por TIC',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Fuentes de financiación',
+            titulo: 'Concepto de educación en entornos digitales',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Indicadores de rentabilidad social y económica',
+            titulo: 'Transformaciones pedagógicas',
             hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Modelos de aprendizaje emergentes',
+            hash: 't_2_3',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Gestión social y apropiación comunitaria',
+        titulo:
+          'Impacto de las tecnologías en los procesos formativos: ventajas, desafíos y nuevos roles educativos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Modelos de gestión y sostenibilidad',
+            titulo: 'El tutor en ambientes virtuales',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Esquemas de recaudo y fondo de reposición:',
+            titulo:
+              'Recursividad del tutor docente y protagonismo del estudiante en la educación mediada por tecnologías',
             hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo:
+              'Ventajas y desventajas de los procesos tecnológicos actuales',
+            hash: 't_3_3',
           },
         ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Viabilidad ambiental y gestión de riesgos',
+        titulo:
+          'Diferencias entre la sociedad de la información, la sociedad del conocimiento y la sociedad red',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Monitoreo, control y evaluación',
+        titulo: 'Aplicaciones en la formación profesional',
         desarrolloContenidos: true,
       },
     ],

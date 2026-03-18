@@ -66,13 +66,13 @@ figcaption
   height: 4.5px
   width: 140px
   border-left: solid 50px
-  border-left-color: #6C4826
+  border-left-color: #53159B
   background-color: #e8e8e8
 
 .titulo-sexto
   border-left: 10px solid
   padding: 6px 0 6px 8px
-  border-left-color: #6C4826 !important
+  border-left-color: #53159B !important
 
 .img-t
   width: auto
@@ -86,8 +86,9 @@ figcaption
 
 .cen
   display: flex
-  justify-content: center
+  flex-direction: column
   align-items: center
+  justify-content: center
 
 
 
@@ -111,9 +112,241 @@ figcaption
       width: 100%
       border-radius: 0px
 
+.bloque1
+  background-color: #0CEBF3
+  border-radius: 49px 0px 0px 49px 
+  @media only screen and (max-width: 767px)
+    border-radius: 0px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 0px 
+  .bloque-texto-g__texto 
+    position: relative
+    width: 65%
+    border-radius: 0px
+    @media only screen and (max-width: 767px)
+      position: relative
+      width: 100%
+      border-radius: 0px
+    @media only screen and (min-width: 768px) and (max-width: 1023px)
+      position: relative
+      width: 100%
+      border-radius: 0px
+
+.cajon.color-primario
+  background-color: #B5C7E7
+  &:before 
+    background-color: #051C46
+
+.tarjetaf
+  background: url('../assets/curso/tema1/fondo1.png')
+  background-size: 100% 100% 
+  background-repeat: no-repeat
+  background-position: center
+  border-radius: 0px
+  overflow: hidden
+  transition: transform 0.3s ease
+  -webkit-mask-image: -webkit-radial-gradient(white, black)
+  backface-visibility: hidden  
+  transform: translateZ(0) 
+  & > *
+    border-radius: inherit
+.slyder-a__bullets__item 
+  background-color: #42107C
+  border-color: #42107C
+.slyder-a__bullets__item--active 
+  background-color: #3EF989 !important
+  border-color: #3EF989!important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #3EF989
+    box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0.3)
+
+.cajon.color-acento-contenido 
+  background-color: #CBB8E1
+  &:before 
+    background-color: #1D0736
+
+.tarjeta.color-acento-botones 
+  border-radius: 20px
+  background-color: #B5C7E7
+  
+.enca:after 
+  content: ''
+  display: block
+  height: 4.5px
+  width: 140px
+  border-left: solid 50px
+  border-left-color: #53159B
+  background-color: #AFC6DE
+
 .bg1
-  background-color: #F0ECE9
+  background-color: #B5F9FC
+.fa-globe
+  color: #53159B
 
 .bg2
-  background-color: #D1E5C0
+  background-color: #C4FDDB
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  border-radius: 20px
+  transition: all 0.3s ease
+  cursor: pointer
+  &:hover 
+    background-color: #CBB8E1
+    transform: translateY(-5px)
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
 
+.cajon.color-secundario
+  background-color: #B5F9FC
+  &:before 
+    background-color: #0CEBF3
+
+.tarjeta--gris.ul 
+  background: url('../assets/curso/tema1/fondo2.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+  border-radius: 20px
+.fondo2
+  background-color: #EEEEEE
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+    background-size: 100% 100%
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right 
+    border: 2px solid #cccccc
+    background-color: #3EF989
+.linea-tiempo-c__header__item__dot 
+    border: 3px solid #0A388B
+    background-color: #FFFFFF
+.linea-tiempo-c__header__item__line-container:after, .linea-tiempo-c__header__item__line-container:before 
+    background-color: #FFFFFF
+
+.acordion__accion__btn--a
+  background-color: #3EF989
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+.acordion .tarjeta--azull
+  background-color: #CBB8E1
+.acordion__accion__btn--a i, .acordion__accion__btn--b i .activ
+  color: black
+.acordion.activ .acordion__activo .acordion__accion__btn--a
+  background-color: #3EF989
+  i, 
+    color: black !important
+.activ
+  .acordion__activo 
+    background-color: #B5C7E7 !important
+    transition: all 0.3s ease-out
+
+.bg3
+  background-color: #B5C7E7
+  border-radius: 20px
+
+.bg4
+  background-color: #C4FDDB
+  border-radius: 20px
+  transition: all 0.3s ease
+  cursor: pointer
+  &:hover 
+    background-color: #B5C7E7
+    transform: translateY(-5px)
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
+
+.tabla-a thead 
+    border-top: 6px solid #045E61
+    color: black
+    background-color: #E2E2E0
+    text-align: center
+.tabla-a th
+  border-color: #E2E2E0
+  text-align: left
+.tabla-a
+  table th
+    padding: 15px 13px
+  table td 
+    padding: 15px 13px
+.tabla-a
+  table
+    width: 100%
+    table-layout: auto
+    th, td
+      overflow-wrap: break-word
+      white-space: normal
+      vertical-align: top
+      text-align: left
+.tabla-a.tab1
+  td:nth-child(1)
+    vertical-align: middle
+    text-align: center
+  th:nth-child(1)
+    width: 22%
+  th:nth-child(2)
+    width: 40%
+  th:nth-child(3)
+    width: 38%
+
+.titulo
+  background-color: #F0ECE9
+  border-radius: 10px 
+  width: fit-content
+  padding: 8px 20px 8px 75px
+  position: relative
+  display: inline-flex
+  align-items: center
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    padding: 8px 20px 8px 65px
+.titulo img
+  width: 63px
+  height: 63px
+  position: absolute
+  top: 50%
+  left: 0px 
+  transform: translateY(-50%)
+  object-fit: contain
+  z-index: 1
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    width: 55px
+    height: 55px
+  @media only screen and (max-width: 767px)
+    width: 55px
+    height: 55px
+
+  
+
+.bg5
+  background-color: #B5C7E7
+  width: 100%
+  @media only screen and (min-width: 1024px)
+    min-height: 349px
+    display: flex
+    flex-direction: column
+    justify-content: center
+
+.bg6
+  background-color: #0D47AE
+  border-radius: 18px 0px 0px 18px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 18px 0px 0px 18px
+.bg7
+  background-color: #CBB8E1
+  border-radius: 0px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 0px 18px 18px 0px
+.bg8
+  background-color: #53159B
+  border-radius: 0px 18px 18px 0px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 20px
