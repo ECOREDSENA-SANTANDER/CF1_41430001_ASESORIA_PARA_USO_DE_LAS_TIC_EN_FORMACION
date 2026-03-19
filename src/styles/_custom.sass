@@ -259,72 +259,29 @@ figcaption
     transform: translateY(-5px)
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
 
-.tabla-a thead 
-    border-top: 6px solid #045E61
-    color: black
-    background-color: #E2E2E0
-    text-align: center
-.tabla-a th
-  border-color: #E2E2E0
-  text-align: left
-.tabla-a
-  table th
-    padding: 15px 13px
-  table td 
-    padding: 15px 13px
-.tabla-a
-  table
-    width: 100%
-    table-layout: auto
-    th, td
-      overflow-wrap: break-word
-      white-space: normal
-      vertical-align: top
-      text-align: left
-.tabla-a.tab1
-  td:nth-child(1)
-    vertical-align: middle
-    text-align: center
-  th:nth-child(1)
-    width: 22%
-  th:nth-child(2)
-    width: 40%
-  th:nth-child(3)
-    width: 38%
-
-.titulo
-  background-color: #F0ECE9
-  border-radius: 10px 
-  width: fit-content
-  padding: 8px 20px 8px 75px
-  position: relative
-  display: inline-flex
-  align-items: center
-  @media only screen and (min-width: 768px) and (max-width: 1023px)
-    padding: 8px 20px 8px 65px
-.titulo img
-  width: 63px
-  height: 63px
-  position: absolute
-  top: 50%
-  left: 0px 
-  transform: translateY(-50%)
-  object-fit: contain
-  z-index: 1
-  @media only screen and (min-width: 768px) and (max-width: 1023px)
-    width: 55px
-    height: 55px
-  @media only screen and (max-width: 767px)
-    width: 55px
-    height: 55px
-
-  
-
 .bg5
   background-color: #B5C7E7
   width: 100%
   @media only screen and (min-width: 1024px)
     min-height: 349px
+    display: flex
+    flex-direction: column
+    justify-content: center
+
+.bg51
+  background-color: #B5C7E7
+  width: 100%
+  @media only screen and (min-width: 1024px)
+    min-height: 385px
+    display: flex
+    flex-direction: column
+    justify-content: center
+
+.bg511
+  background-color: #B5C7E7
+  width: 100%
+  @media only screen and (min-width: 1024px)
+    min-height: 296.5px
     display: flex
     flex-direction: column
     justify-content: center
@@ -350,3 +307,196 @@ figcaption
     border-radius: 20px
   @media only screen and (min-width: 768px) and (max-width: 1023px)
     border-radius: 20px
+
+.bg9
+  background: url('../assets/curso/tema1/fondo1.png')
+  background-size: 100% 100% 
+  background-repeat: no-repeat
+  background-position: center
+  border-radius: 0px
+.slyder__btn
+  background-color: #3EF989
+
+.slib
+  @media (min-width: 992px) 
+    .col-lg-8
+      flex: 0 0 auto
+      width: 50%
+  @media (min-width: 992px) 
+    .col-lg-4
+      flex: 0 0 auto
+      width: 50% 
+.slyder-b__img 
+  @media (min-width: 992px) 
+    display: block
+  @media (max-width: 768px) 
+    display: none
+    
+.cajon.color-acento-botones 
+  background-color: #C4FDDB
+  &:before 
+    background-color: #3EF989
+
+.tarjeta.color-acento-contenido
+  background-color:#42107C
+
+@media (min-width: 992px) 
+  .p-lg-5.te3
+    padding: 4.5rem !important
+    
+.bg10
+  background-color: #CBB8E1
+
+.titulo
+  display: inline-flex
+  align-items: center
+  width: fit-content
+  max-width: 100%
+  position: relative
+  &__icono
+    background-color: #4A1A7A
+    display: flex
+    align-items: center
+    justify-content: center
+    padding: 25px
+    min-width: 40px
+    height: 100%
+    border-radius: 0px
+    position: relative
+    z-index: 0
+  &__texto 
+    background-color: #CBB8E1
+    display: flex
+    align-items: center
+    gap: 14px
+    padding: 5px 20px 5px 7px
+    border-radius: 5px
+    z-index: 0
+    margin-left: -43px
+    img
+      width: 30px
+      height: 30px
+      flex-shrink: 0
+      position: relative
+      z-index: 1
+
+.bg11
+  background-color: #0D47AE
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto 
+  color: $black
+  font-style: normal !important
+.tarjeta-audio.color-acento-botones
+  border-color: #53159B
+.tarjeta-audio 
+  border: 3px solid
+  padding: 1.65em 0.7em 0.7em 1.5em
+  border-radius: 30px
+  min-height: 100px
+.audio.color-acento-contenido .audio__btn, .tarjeta-audio.color-acento-contenido .audio__btn, .tarjeta-dialogo.color-acento-contenido .audio__btn 
+  background-color: #53159B
+.tarjeta-audio.color-acento-botones .tarjeta-audio__input input[type=range] 
+  background: #E2E2E0
+  
+
+
+/////////////////////////////////////////////TABLAS//////////////////////////////////////////
+
+.tabla-a thead 
+    border-top: 7px solid #045E61
+    color: black
+    background-color: #E2E2E0
+    text-align: center
+.tabla-a th
+  border-color: #E2E2E0
+  text-align: left
+.tabla-a
+  table th
+    padding: 18px 15px
+  table td 
+    padding: 18px 15px
+.tabla-a
+  table
+    width: 100%
+    table-layout: auto
+    th, td
+      overflow-wrap: break-word
+      white-space: normal
+      vertical-align: top
+      text-align: left
+
+.tabla-a.tab1
+  td:nth-child(1)
+    vertical-align: middle
+    text-align: center
+  th:nth-child(1)
+    width: 22%
+  th:nth-child(2)
+    width: 40%
+  th:nth-child(3)
+    width: 38%
+
+.tabla-a.tab2
+  table th
+    padding: 23px 13px
+  table td 
+    padding: 24px 13px
+  td:nth-child(1)
+    vertical-align: middle
+    text-align: center
+  th:nth-child(1)
+    width: 40%
+  th:nth-child(2)
+    width: 60%
+
+.tabla-a.tab3
+  td:nth-child(1)
+    vertical-align: middle
+    text-align: center
+  th:nth-child(1)
+    width: 33%
+  th:nth-child(2)
+    width: 34%
+  th:nth-child(3)
+    width: 33%
+
+.tabla-a.tab4
+  td:nth-child(1)
+    vertical-align: middle
+    text-align: center
+  th:nth-child(1)
+    width: 28%
+  th:nth-child(2)
+    width: 28%
+  th:nth-child(3)
+    width: 44%
+
+.tabla-a.tab5
+  table th
+    padding: 23px 13px
+  table td 
+    padding: 24px 13px
+  td:nth-child(1)
+    vertical-align: middle
+    text-align: center
+  th:nth-child(1)
+    width: 17%
+  th:nth-child(2)
+    width: 27%
+  th:nth-child(3)
+    width: 56%
+
+.tabla-a.tab6
+  table th
+    padding: 23px 13px
+    text-align: center
+  table td 
+    padding: 24px 13px
+    text-align: center
+  th:nth-child(1)
+    width: 25%
+  th:nth-child(2)
+    width: 25%
+  th:nth-child(3)
+    width: 25%
+  th:nth-child(4)
+    width: 25%

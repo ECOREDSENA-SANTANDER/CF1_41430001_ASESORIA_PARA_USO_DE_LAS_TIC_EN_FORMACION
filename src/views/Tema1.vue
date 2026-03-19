@@ -102,7 +102,7 @@
             li.d-flex.mb-1
               i.fas.fa-globe
               p.mb-0 Impulsar el teletrabajo y el trabajo en red.
-        .col-lg-4
+        .col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/tema1/7.png' alt='AvatarTop')
     
     p.mb-5 En el ámbito educativo, su impacto ha sido igualmente profundo, pues la tecnología ha transformado:
@@ -111,21 +111,21 @@
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
-            .col-4.mb-4.my-4
+            .col-5.mb-4.my-4
               img(src='@/assets/curso/tema1/8.svg' alt='AvatarTop')
           h4.text-center.mb-4 Las formas de enseñar
           p.mb-0 El docente ya no depende exclusivamente de la exposición oral. Puede apoyarse en simuladores, videos, plataformas virtuales, laboratorios digitales y recursos interactivos que enriquecen la experiencia formativa.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
-            .col-4.mb-4.my-4
+            .col-5.mb-4.my-4
               img(src='@/assets/curso/tema1/9.svg' alt='AvatarTop')
           h4.text-center.mb-4 Las formas de aprender
           p.mb-0 El aprendizaje dejó de ser exclusivamente presencial. Hoy puede darse de manera autónoma, asincrónica, colaborativa y ubicua, es decir, en cualquier momento y lugar.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
-            .col-4.mb-4.my-4
+            .col-5.mb-4.my-4
               img(src='@/assets/curso/tema1/10.svg' alt='AvatarTop')
           h4.text-center.mb-4 Las formas de producir conocimiento
           p.mb-0 Los estudiantes no solo consumen información; también crean contenidos digitales, participan en comunidades de aprendizaje y construyen saber de manera colectiva.
@@ -252,23 +252,23 @@
     
     p.mb-5 Por ello, la formación en la sociedad de la información debe incluir competencias informacionales y digitales, tales como:
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4
+    .row.justify-content-center.align-items-center.mb-0.mb-lg-4
+      .col-lg-4.col-md-6.mb-lg-0.mb-4
         .bg3.p-4
           p.mb-0.text-center Lectura crítica de contenidos digitales.
-      .col-lg-4
+      .col-lg-4.col-md-6.mb-lg-0.mb-4
         .bg3.p-4
           p.mb-0.text-center Evaluación de la veracidad de las fuentes.
-      .col-lg-4
+      .col-lg-4.col-md-6.mb-lg-0.mb-4
         .bg3.p-4
           p.mb-0.text-center Uso ético de la información.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
-        .bg3.p-4
+    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
+      .col-lg-6.col-md-6.mb-lg-0.mb-4
+        .bg3.p-4.h-100.cen
           p.mb-0.text-center Gestión organizada de datos.
-      .col-lg-6
-        .bg3.p-4
+      .col-lg-6.col-md-6.mb-lg-0.mb-4
+        .bg3.p-4.h-100
           p.mb-0.text-center Producción responsable de contenidos.
 
     .bloque-texto-g.color-primario.p-4.p-lg-5.p-md-4.mb-0(data-aos="fade-left")
@@ -289,23 +289,23 @@
     p.mb-4 La sociedad del conocimiento representa una evolución frente a la sociedad de la información. Mientras esta última se centra en el acceso y circulación de datos, la sociedad del conocimiento pone el énfasis en la capacidad de las personas y las organizaciones para interpretar, aplicar y transformar la información en soluciones útiles para la vida social, económica, científica y educativa.
     p.mb-4 Aquí el valor no está en la información sino en su transformación en soluciones, lo cual implica procesos cognitivos superiores como:
 
-    .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-3
+    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
         .bg4.p-4.h-100.cen
           h4.mb-0.text-center El análisis
-      .col-lg-3
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
         .bg4.p-4.h-100.cen
           h4.mb-0.text-center La reflexión crítica
-      .col-lg-3
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
         .bg4.p-4.h-100.cen
           h4.mb-0.text-center La innovación
-      .col-lg-3
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
         .bg4.p-4.h-100.cen
           h4.mb-0.text-center La toma de decisiones fundamentadas
 
     p.mb-5 En el ámbito educativo se manifiesta en varios aspectos:
 
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 1.
@@ -343,7 +343,15 @@
                 td Construcción colectiva del saber mediante la interacción y el intercambio de perspectivas.
                 td Participación en comunidades de aprendizaje, redes académicas y entornos virtuales colaborativos.
     
-    
+    .titulo.mb-5(data-aos="fade-left")
+      .titulo__icono
+      .titulo__texto
+        img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
+        h3.mb-0 Proceso de transformación de información en innovación
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-12
+        SlyderB.slib(:datos="datosSlyder").bg9.p-lg-5.p-4(data-aos="fade-left")
 
 
     separador
@@ -369,7 +377,7 @@
         .bg7.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema1/21.svg')
           p.mb-0 El poder y el conocimiento no se concentran, sino que se distribuyen.
-      .col-lg-4.col-md-6.ps-lg-0.ps-md-0.mb-lg-0.mb-4.mb-md-0
+      .col-lg-4.col-md-6.ps-lg-0.ps-md-0.mb-0
         .bg8.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema1/22.svg')
           p.mb-0.text-white La participación activa de los sujetos es fundamental.
@@ -398,7 +406,28 @@
 export default {
   name: 'Tema1',
   data: () => ({
-    // variables de vue
+    datosSlyder: [
+      {
+        titulo: 'Evolución',
+        texto:
+          'De la sociedad de la información (acceso y circulación de datos) a la sociedad del conocimiento (uso crítico y aplicado de la información).',
+        imagen: require('@/assets/curso/tema1/24.png'),
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'Idea central',
+        texto: 'Análisis, reflexión, innovación y toma de decisiones.',
+        imagen: require('@/assets/curso/tema1/25.png'),
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'Aplicación en educación',
+        texto:
+          '- Aprendizaje significativo: comprender y aplicar. <br> - Producción de conocimiento: investigar y crear. <br> - Pensamiento crítico: analizar y cuestionar. <br> - Innovación y creatividad: diseñar soluciones. <br> - Trabajo colaborativo: aprender en comunidad.',
+        imagen: require('@/assets/curso/tema1/26.png'),
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+    ],
   }),
   mounted() {
     this.$nextTick(() => {
