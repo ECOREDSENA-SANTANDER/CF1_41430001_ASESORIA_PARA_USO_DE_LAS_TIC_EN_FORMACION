@@ -17,7 +17,7 @@
         br
         p.mb-0 La tecnología cumple un papel de mediadora del aprendizaje, facilitando el acceso a la información, la comunicación entre los participantes del proceso educativo y la construcción colectiva del conocimiento.
     
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 2.
@@ -50,7 +50,7 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema2/2.png', alt='')
 
-    .cajon.color-primario.p-lg-5.p-4.mb-0
+    .cajon.color-primario.p-lg-5.p-4.mb-0(data-aos="fade-right")
       p.mb-0 De esta manera, la educación mediada por TIC responde a las exigencias de la sociedad digital, donde el acceso a la información, la comunicación virtual y la innovación tecnológica son elementos fundamentales para el desarrollo académico y profesional.
 
 
@@ -66,7 +66,7 @@
           p.mb-3 La educación en entornos digitales se refiere al proceso de enseñanza y aprendizaje que se desarrolla mediante plataformas tecnológicas, recursos multimedia y espacios de interacción virtual, que permiten organizar el proceso formativo sin depender exclusivamente del aula física, facilitando así la gestión de contenidos, la realización de actividades, la evaluación del aprendizaje y la comunicación entre tutores y estudiantes.
           p.mb-0 Es así como, la tecnología crea nuevos espacios de aprendizaje dinámicos e interactivos, donde el estudiante puede acceder a materiales, participar en actividades y recibir acompañamiento académico desde diferentes lugares y dispositivos.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 3.
@@ -92,7 +92,7 @@
                 td Recursos digitales diseñados con intención pedagógica que integran texto, imágenes, audio, video o simulaciones.
                 td Simuladores, infografías interactivas, módulos multimedia.
         
-    .cajon.color-acento-botones.p-lg-5.p-4.mb-0
+    .cajon.color-acento-botones.p-lg-5.p-4.mb-0(data-aos="fade-left")
       p.mb-0 Estos entornos no solo trasladan la educación al plano digital, sino que crean nuevas ecologías de aprendizaje más abiertas, interactivas y centradas en la experiencia del estudiante.
 
 
@@ -100,11 +100,11 @@
     #t_2_2.titulo-segundo.mb-5
       h2 2.2 Transformaciones pedagógicas
 
-    p.mb-4 La incorporación de las TIC en la educación ha generado cambios significativos en la forma de enseñar y aprender, modificando los espacios educativos, los tiempos de estudio y los roles de docentes y estudiantes.
+    p.mb-4(data-aos="fade-right") La incorporación de las TIC en la educación ha generado cambios significativos en la forma de enseñar y aprender, modificando los espacios educativos, los tiempos de estudio y los roles de docentes y estudiantes.
     
-    p.mb-4 Estas transformaciones han impulsado modelos de aprendizaje más participativos, flexibles y orientados al desarrollo de competencias.
+    p.mb-4(data-aos="fade-left") Estas transformaciones han impulsado modelos de aprendizaje más participativos, flexibles y orientados al desarrollo de competencias.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 4.
@@ -134,7 +134,7 @@
                 td Evaluación por competencias.
                 td Se valoran procesos, proyectos, análisis y resolución de problemas.
 
-    p.mb-5 Estas transformaciones exigen:
+    p.mb-5(data-aos="fade-left") Estas transformaciones exigen:
 
     .row.justify-content-center.align-items-stretch.mb-0(data-aos="fade-right")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
@@ -155,9 +155,9 @@
     #t_2_3.titulo-segundo.mb-5
       h2 2.3 Modelos de aprendizaje emergentes
     
-    p.mb-5 El desarrollo de la educación mediada por TIC ha impulsado la aparición de nuevos modelos pedagógicos, los cuales responden a las dinámicas de la sociedad del conocimiento y la sociedad de red. Con estos modelos se promueve la participación activa del estudiante, el trabajo colaborativo y la aplicación del conocimiento en contextos reales.
+    p.mb-5(data-aos="fade-left") El desarrollo de la educación mediada por TIC ha impulsado la aparición de nuevos modelos pedagógicos, los cuales responden a las dinámicas de la sociedad del conocimiento y la sociedad de red. Con estos modelos se promueve la participación activa del estudiante, el trabajo colaborativo y la aplicación del conocimiento en contextos reales.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 5.
@@ -183,7 +183,7 @@
                 td Los estudiantes desarrollan proyectos que integran teoría, investigación y solución de problemas.
                 td Desarrollo de prototipos, estudios de caso o proyectos aplicados.
 
-    .cajon.color-primario.p-lg-5.p-4.mb-0
+    .cajon.color-primario.p-lg-5.p-4.mb-0(data-aos="fade-left")
       p.mb-4 Los modelos representan el tránsito de una educación centrada en la transmisión de contenidos hacia una educación orientada a la construcción activa del conocimiento, en la que el estudiante participa, investiga, crea y aplica lo aprendido.
       p.mb-0 La educación mediada por TIC no solo introduce tecnología en el aula, sino que transforma profundamente la pedagogía, promoviendo aprendizaje autónomo, colaboración, innovación y formación pertinente para los retos de la sociedad digital.
 

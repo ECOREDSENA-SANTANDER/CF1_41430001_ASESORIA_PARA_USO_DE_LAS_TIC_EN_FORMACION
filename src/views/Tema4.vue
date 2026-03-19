@@ -16,7 +16,7 @@
           .bloque-texto-g__texto.p-4.p-lg-5
             p.mb-0 Las expresiones sociedad de la información, sociedad del conocimiento y sociedad red representan diferentes etapas en la evolución de las transformaciones sociales impulsadas por las Tecnologías de la Información y la Comunicación (TIC). Cada una de ellas describe una manera particular de comprender el papel de la información, el conocimiento y la conectividad en la vida social, económica y educativa.
 
-    .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
@@ -36,9 +36,9 @@
               img(src='@/assets/curso/tema4/4.svg' alt='AvatarTop')
           p.mb-0 Finalmente, la sociedad red destaca la importancia de la interconexión entre personas, organizaciones y sistemas mediante redes digitales que posibilitan la colaboración, el intercambio permanente de información y la construcción colectiva del conocimiento.
     
-    p.mb-5 Esta evolución implica una transformación progresiva de los procesos formativos: se pasa de enseñar a buscar información, a formar para analizarla y aplicarla, y posteriormente a aprender de manera colaborativa en entornos digitales interconectados.
+    p.mb-5(data-aos="fade-right") Esta evolución implica una transformación progresiva de los procesos formativos: se pasa de enseñar a buscar información, a formar para analizarla y aplicarla, y posteriormente a aprender de manera colaborativa en entornos digitales interconectados.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 8.
@@ -78,7 +78,7 @@
                 td Orientador del pensamiento crítico.
                 td Dinamizador de comunidades de aprendizaje.
 
-    .titulo.mb-5(data-aos="fade-left")
+    .titulo.mb-5(data-aos="fade-right")
       .titulo__icono
       .titulo__texto
         img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')

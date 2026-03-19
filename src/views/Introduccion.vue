@@ -18,11 +18,11 @@
         br
         p.mb-0 La consolidación de la sociedad de la información, la evolución hacia la sociedad del conocimiento y la configuración de estructuras en red han redefinido las dinámicas de enseñanza y aprendizaje, exigiendo nuevas competencias en docentes y estudiantes. En este contexto, la formación ya no se limita a la transmisión de contenidos, sino que implica mediación pedagógica, pensamiento crítico, gestión del conocimiento y uso estratégico de herramientas digitales.
     
-    p.mb-4 A lo largo del componente se analizarán los fundamentos sociohistóricos de las TIC, las transformaciones pedagógicas derivadas de su incorporación y la reconfiguración de los roles formativos en entornos digitales. Asimismo, se reflexiona sobre las ventajas, desafíos y aplicaciones prácticas de la educación mediada por tecnologías en la formación académica.
+    p.mb-4(data-aos="fade-right") A lo largo del componente se analizarán los fundamentos sociohistóricos de las TIC, las transformaciones pedagógicas derivadas de su incorporación y la reconfiguración de los roles formativos en entornos digitales. Asimismo, se reflexiona sobre las ventajas, desafíos y aplicaciones prácticas de la educación mediada por tecnologías en la formación académica.
     
-    p.mb-5 De esta manera, se contribuye al fortalecimiento de competencias para diseñar, orientar y acompañar procesos formativos pertinentes, innovadores y alineados con las demandas del ecosistema educativo digital actual.
+    p.mb-5(data-aos="fade-left") De esta manera, se contribuye al fortalecimiento de competencias para diseñar, orientar y acompañar procesos formativos pertinentes, innovadores y alineados con las demandas del ecosistema educativo digital actual.
     
-    .row.justify-content-center.align-items-center           
+    .row.justify-content-center.align-items-center(data-aos="fade-right")          
       .col-lg-12
         figure
           .video

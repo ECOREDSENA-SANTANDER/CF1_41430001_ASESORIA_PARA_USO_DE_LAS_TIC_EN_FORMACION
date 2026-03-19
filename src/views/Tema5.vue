@@ -15,7 +15,7 @@
           p.mb-3 Las Tecnologías de la Información y la Comunicación (TIC) permiten mejorar la formación profesional al incorporar herramientas digitales que facilitan aprender, practicar y evaluar conocimientos de manera más dinámica.
           p.mb-0 Gracias a estas tecnologías, los estudiantes pueden simular situaciones reales de trabajo, acceder a contenidos desde cualquier lugar, interactuar con otros compañeros y recibir retroalimentación inmediata sobre su aprendizaje; esto permite desarrollar habilidades técnicas y digitales necesarias para el mundo laboral actual.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 9.
@@ -45,7 +45,7 @@
                 td Evaluar el aprendizaje mediante herramientas tecnológicas.
                 td Presentar cuestionarios en línea o entregar un portafolio digital.
 
-    .cajon.color-acento-contenido.p-lg-5.p-4.mb-0
+    .cajon.color-acento-contenido.p-lg-5.p-4.mb-0(data-aos="fade-left")
       p.mb-0 Las TIC permiten que la formación sea más práctica, flexible e interactiva, ya que los estudiantes pueden aprender haciendo, colaborar con otros y utilizar herramientas digitales similares a las que encontrarán en su futuro trabajo.
 
 

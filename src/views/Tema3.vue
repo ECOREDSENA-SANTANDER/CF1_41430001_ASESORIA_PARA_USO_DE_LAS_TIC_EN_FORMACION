@@ -15,9 +15,9 @@
           p.mb-3 Los roles formativos mediados por tecnologías hacen referencia a las funciones, responsabilidades y competencias que asumen tutores y estudiantes dentro de procesos educativos apoyados en TIC. La mediación tecnológica no solo introduce herramientas, sino que redefine la manera en que se orienta, acompaña y construye el aprendizaje, desplazando modelos centrados en la transmisión hacia dinámicas participativas, flexibles y colaborativas. 
           p.mb-0 El tutor de acompañamiento deja de ser únicamente expositor de contenidos para convertirse en orientador del proceso, mientras que el estudiante asume un papel activo en la gestión de su aprendizaje. Esta reconfiguración de roles exige desarrollo de competencias pedagógicas, digitales y comunicativas que garanticen procesos formativos pertinentes y de calidad.
     
-    p.mb-4 Le invitamos a revisar este recurso complementario, donde se presentan de forma sintética los elementos clave del:
+    p.mb-4(data-aos="fade-right") Le invitamos a revisar este recurso complementario, donde se presentan de forma sintética los elementos clave del:
 
-    .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img.img-a.img-t.mx-lg-4(src="@/assets/curso/tema3/2.svg")
@@ -36,8 +36,8 @@
     #t_3_1.titulo-segundo.mb-5
       h2 3.1 El tutor en ambientes virtuales
     
-    p.mb-4 En los entornos virtuales, el tutor cumple una función integral de acompañamiento, orientación y dinamización del aprendizaje. No se limita a resolver dudas, sino que diseña experiencias formativas, promueve la participación, retroalimenta procesos y monitorea el progreso del aprendiz, favoreciendo la permanencia y el logro de resultados.
-    p.mb-5 Para ello requiere competencias clave:
+    p.mb-4(data-aos="fade-right") En los entornos virtuales, el tutor cumple una función integral de acompañamiento, orientación y dinamización del aprendizaje. No se limita a resolver dudas, sino que diseña experiencias formativas, promueve la participación, retroalimenta procesos y monitorea el progreso del aprendiz, favoreciendo la permanencia y el logro de resultados.
+    p.mb-5(data-aos="fade-left") Para ello requiere competencias clave:
     
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-6.mb-lg-0.mb-4
@@ -62,7 +62,7 @@
           h4.text-center.mb-4 Comunicativas
           p.mb-0 Interacción asertiva, motivación, retroalimentación oportuna y construcción de clima de confianza virtual.
     
-    .cajon.color-primario.p-lg-5.p-4.mb-0
+    .cajon.color-primario.p-lg-5.p-4.mb-0(data-aos="fade-left")
       p.mb-0 Sumado a esto, la orientación pedagógica en ambientes mediados por TIC implica un seguimiento permanente y sistemático del proceso formativo. El tutor analiza avances, identifica dificultades, propone rutas de mejora y ajusta estrategias según las necesidades del estudiante.
       p.mb-0 Este acompañamiento se materializa mediante tutorías sincrónicas y asincrónicas, retroalimentación en actividades, mensajes motivacionales y monitoreo del desempeño en plataforma, garantizando que el aprendizaje no sea aislado sino guiado y significativo.
     
@@ -79,14 +79,14 @@
           .bloque-texto-g__texto.p-4.p-lg-5.te3
             p.mb-0 En los entornos educativos mediados por Tecnologías de la Información y la Comunicación (TIC), el proceso formativo se transforma a partir de la interacción entre un tutor recursivo y un estudiante protagonista de su aprendizaje.
 
-    p.mb-4 Esta relación pedagógica favorece experiencias educativas más dinámicas, flexibles y centradas en el desarrollo de competencias para la sociedad digital.
+    p.mb-4(data-aos="fade-left") Esta relación pedagógica favorece experiencias educativas más dinámicas, flexibles y centradas en el desarrollo de competencias para la sociedad digital.
     
-    p.mb-5 Por un lado, la recursividad docente se entiende como la capacidad del educador para innovar pedagógicamente a partir de los recursos disponibles, especialmente en contextos donde las condiciones tecnológicas pueden ser limitadas. Un tutor docente recursivo demuestra creatividad didáctica, adapta estrategias de enseñanza y aprovecha de manera eficiente herramientas digitales institucionales, abiertas o de libre acceso.
+    p.mb-5(data-aos="fade-right") Por un lado, la recursividad docente se entiende como la capacidad del educador para innovar pedagógicamente a partir de los recursos disponibles, especialmente en contextos donde las condiciones tecnológicas pueden ser limitadas. Un tutor docente recursivo demuestra creatividad didáctica, adapta estrategias de enseñanza y aprovecha de manera eficiente herramientas digitales institucionales, abiertas o de libre acceso.
 
-    .cajon.color-acento-botones.p-lg-5.p-4.mb-5
+    .cajon.color-acento-botones.p-lg-5.p-4.mb-5(data-aos="fade-left")
       p.mb-0 Es así como, la relación entre la recursividad del tutor docente y el rol activo del estudiante constituye un elemento fundamental para el desarrollo de procesos formativos pertinentes y significativos.
 
-    .row.justify-content-center.align-items-stretch.mb-5
+    .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-3.d-none.d-lg-block
         img.h-100(src='@/assets/curso/tema3/7.png', alt='')
       .col-lg-9
@@ -156,9 +156,9 @@
             .col-lg-6.col-md-10.col-10
               img(src='@/assets/curso/tema3/13.png', alt='')
     
-    p.mb-5 El estudiante como protagonista deja de ser un receptor pasivo de información y asume un papel activo y responsable en la construcción de su aprendizaje, lo cual implica desarrollar competencias cognitivas, digitales y sociales que le permitan gestionar información, participar en espacios colaborativos y producir conocimiento. 
+    p.mb-5(data-aos="fade-left") El estudiante como protagonista deja de ser un receptor pasivo de información y asume un papel activo y responsable en la construcción de su aprendizaje, lo cual implica desarrollar competencias cognitivas, digitales y sociales que le permitan gestionar información, participar en espacios colaborativos y producir conocimiento. 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 6.
@@ -188,7 +188,7 @@
                 td Produce materiales digitales que evidencian su aprendizaje y comprensión de los temas estudiados.
                 td Elabora infografías, videos, presentaciones o proyectos digitales como evidencia de aprendizaje.
 
-    .cajon.color-acento-contenido.p-lg-5.p-4.mb-5
+    .cajon.color-acento-contenido.p-lg-5.p-4.mb-5(data-aos="fade-left")
       p.mb-0 De esta manera, la articulación entre la recursividad del tutor docente y el protagonismo del estudiante fortalece procesos de aprendizaje significativos, promueve la construcción colectiva del conocimiento y prepara a los participantes para desenvolverse en contextos académicos y laborales altamente digitalizados.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -210,10 +210,10 @@
     #t_3_3.titulo-segundo.mb-5
       h2 3.3 Ventajas y desventajas de los procesos tecnológicos actuales 
 
-    p.mb-4 Los procesos tecnológicos actuales han transformado profundamente la educación y la formación profesional, ampliando posibilidades de acceso, comunicación y construcción de conocimiento. Sin embargo, su incorporación no está exenta de tensiones: junto a los beneficios emergen desafíos pedagógicos, sociales y éticos que deben ser analizados críticamente para garantizar un uso pertinente de las TIC.
-    p.mb-4 Comprender estas ventajas y desventajas permite a docentes y orientadores formativos tomar decisiones pedagógicas más equilibradas, promoviendo la innovación sin desconocer los riesgos asociados al uso intensivo de la tecnología.
+    p.mb-4(data-aos="fade-left") Los procesos tecnológicos actuales han transformado profundamente la educación y la formación profesional, ampliando posibilidades de acceso, comunicación y construcción de conocimiento. Sin embargo, su incorporación no está exenta de tensiones: junto a los beneficios emergen desafíos pedagógicos, sociales y éticos que deben ser analizados críticamente para garantizar un uso pertinente de las TIC.
+    p.mb-4(data-aos="fade-right") Comprender estas ventajas y desventajas permite a docentes y orientadores formativos tomar decisiones pedagógicas más equilibradas, promoviendo la innovación sin desconocer los riesgos asociados al uso intensivo de la tecnología.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 7.

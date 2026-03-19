@@ -7,7 +7,7 @@
         span 1
       h1 Emergencia de un nuevo tipo de sociedad
     
-    p.mb-5 La emergencia de un nuevo tipo de sociedad alude a las transformaciones estructurales que ha experimentado la humanidad en las últimas décadas como resultado de la articulación entre globalización, desarrollo tecnológico y circulación masiva de información; con ello, se han redefinido las formas de comunicarse, producir conocimiento, trabajar y aprender, configurando escenarios sociales interconectados donde el acceso al saber y la interacción cultural ocurren en tiempo real. 
+    p.mb-5(data-aos="fade-left") La emergencia de un nuevo tipo de sociedad alude a las transformaciones estructurales que ha experimentado la humanidad en las últimas décadas como resultado de la articulación entre globalización, desarrollo tecnológico y circulación masiva de información; con ello, se han redefinido las formas de comunicarse, producir conocimiento, trabajar y aprender, configurando escenarios sociales interconectados donde el acceso al saber y la interacción cultural ocurren en tiempo real. 
     
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-12
@@ -18,7 +18,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Este nuevo orden social se sustenta en dinámicas que posteriormente se profundizan: la influencia de la globalización en la cultura contemporánea, el papel de la tecnología como motor de cambio, la consolidación de la sociedad de la información, la evolución hacia la sociedad del conocimiento, la organización en estructuras de sociedad de red y sus implicaciones para la educación. Comprender esta emergencia permite contextualizar los cambios educativos actuales y orientar procesos formativos pertinentes frente a las demandas del mundo digital.
     
-    .cajon.color-primario.p-lg-5.p-4.mb-0
+    .cajon.color-primario.p-lg-5.p-4.mb-0(data-aos="fade-left")
       p.mb-0 Este nuevo orden social se sustenta en dinámicas que posteriormente se profundizan: la influencia de la globalización en la cultura contemporánea, el papel de la tecnología como motor de cambio, la consolidación de la sociedad de la información, la evolución hacia la sociedad del conocimiento, la organización en estructuras de sociedad de red y sus implicaciones para la educación. Comprender esta emergencia permite contextualizar los cambios educativos actuales y orientar procesos formativos pertinentes frente a las demandas del mundo digital.
     
 
@@ -26,9 +26,9 @@
     #t_1_1.titulo-segundo.mb-5
       h2 1.1 Globalización y cultura contemporánea
 
-    p.mb-4 La globalización ha transformado profundamente las dinámicas sociales al reducir las barreras de tiempo y espacio, permitiendo que la información, los bienes culturales, las innovaciones tecnológicas y los modelos educativos circulen de manera inmediata entre países y continentes; llevando a la sociedad, no solo a responder a avances tecnológicos, sino también a procesos económicos, políticos y culturales que han impulsado la interdependencia mundial.
+    p.mb-4(data-aos="fade-right") La globalización ha transformado profundamente las dinámicas sociales al reducir las barreras de tiempo y espacio, permitiendo que la información, los bienes culturales, las innovaciones tecnológicas y los modelos educativos circulen de manera inmediata entre países y continentes; llevando a la sociedad, no solo a responder a avances tecnológicos, sino también a procesos económicos, políticos y culturales que han impulsado la interdependencia mundial.
     
-    p.mb-4 La globalización ha generado oportunidades sin precedentes para el acceso, la cooperación y la diversificación de las experiencias de aprendizaje. Hoy la formación ya no se limita al contexto local, por el contrario, se nutre de perspectivas, metodologías y recursos provenientes de distintos sistemas educativos que se pueden reflejar en:
+    p.mb-4(data-aos="fade-left") La globalización ha generado oportunidades sin precedentes para el acceso, la cooperación y la diversificación de las experiencias de aprendizaje. Hoy la formación ya no se limita al contexto local, por el contrario, se nutre de perspectivas, metodologías y recursos provenientes de distintos sistemas educativos que se pueden reflejar en:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12 
@@ -53,10 +53,10 @@
               .col-lg-5.col-md-8.col-10
                 img.mb-0(alt="" src="@/assets/curso/tema1/4.png")
 
-    .cajon.color-acento-contenido.p-lg-5.p-4.mb-5
+    .cajon.color-acento-contenido.p-lg-5.p-4.mb-5(data-aos="fade-left")
       p.mb-0 Por tanto, la globalización ha ampliado el horizonte de la educación, haciendo posible que el aprendizaje sea más accesible, colaborativo e intercultural. Sin embargo, también plantea retos, como la necesidad de desarrollar pensamiento crítico para seleccionar información pertinente y la urgencia de reducir las brechas de acceso tecnológico que aún persisten en diversos territorios.
 
-    .tarjeta.color-acento-botones.p-4.mb-0(data-aos="fade-left")
+    .tarjeta.color-acento-botones.p-4.mb-0(data-aos="fade-right")
       .row.justify-content-around.align-items-center
         .col-lg-5.col-md-4.col-8.mb-4.mb-md-0
           img.img-t.img-a(src='@/assets/curso/tema1/5.svg' alt='AvatarTop')
@@ -73,20 +73,20 @@
     #t_1_2.titulo-segundo.mb-5
       h2 1.2 Tecnología y transformación Social
 
-    p.mb-5 La tecnología actúa como un motor de cambio social porque influye directamente en la manera como las personas viven, trabajan, se comunican y aprenden. No se limita a la creación de herramientas o dispositivos; implica la generación de nuevas prácticas culturales, económicas y educativas que reconfiguran la vida cotidiana. 
+    p.mb-5(data-aos="fade-left") La tecnología actúa como un motor de cambio social porque influye directamente en la manera como las personas viven, trabajan, se comunican y aprenden. No se limita a la creación de herramientas o dispositivos; implica la generación de nuevas prácticas culturales, económicas y educativas que reconfiguran la vida cotidiana. 
 
     .row.mb-5(data-aos="fade-right")         
       .col-lg-12
         img(src='@/assets/curso/tema1/6.png' alt='AvatarTop')
 
-    p.mb-5 A lo largo de la historia, cada avance tecnológico ha producido transformaciones significativas en la organización de la sociedad. Por ejemplo, la invención de la imprenta facilitó la masificación del conocimiento escrito; la radio y la televisión ampliaron el acceso a la información; e Internet consolidó la comunicación global en tiempo real.
+    p.mb-5(data-aos="fade-left") A lo largo de la historia, cada avance tecnológico ha producido transformaciones significativas en la organización de la sociedad. Por ejemplo, la invención de la imprenta facilitó la masificación del conocimiento escrito; la radio y la televisión ampliaron el acceso a la información; e Internet consolidó la comunicación global en tiempo real.
 
-    .cajon.color-primario.p-lg-5.p-4.mb-5
+    .cajon.color-primario.p-lg-5.p-4.mb-5(data-aos="fade-right")
       p.mb-0 En la actualidad, la tecnología no solo optimiza y agiliza procesos, también reconfigura las formas de interacción, transformando las relaciones personales, laborales y académicas que ahora se desarrollan en entornos digitales mediante plataformas virtuales, redes sociales, aplicaciones de mensajería y espacios colaborativos que facilitan la comunicación en tiempo real y la construcción colectiva de conocimiento.
 
-    p.mb-5 En el campo productivo, la tecnología ha permitido:
+    p.mb-5(data-aos="fade-left") En el campo productivo, la tecnología ha permitido:
     
-    .bg1.p-4.mb-5
+    .bg1.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-4
           ul.lista-ul.mb-0
@@ -105,7 +105,7 @@
         .col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/tema1/7.png' alt='AvatarTop')
     
-    p.mb-5 En el ámbito educativo, su impacto ha sido igualmente profundo, pues la tecnología ha transformado:
+    p.mb-5(data-aos="fade-left") En el ámbito educativo, su impacto ha sido igualmente profundo, pues la tecnología ha transformado:
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-6.mb-lg-0.mb-4
@@ -130,11 +130,11 @@
           h4.text-center.mb-4 Las formas de producir conocimiento
           p.mb-0 Los estudiantes no solo consumen información; también crean contenidos digitales, participan en comunidades de aprendizaje y construyen saber de manera colectiva.
 
-    .cajon.color-secundario.p-lg-5.p-4.mb-5
+    .cajon.color-secundario.p-lg-5.p-4.mb-5(data-aos="fade-left")
       h4.mb-3 Ejemplo de esta transformación
       p.mb-0 Se evidencia en la formación profesional: aprendices que antes requerían talleres físicos para practicar, hoy pueden entrenarse previamente en simuladores virtuales que reducen riesgos y optimizan recursos.
     
-    p.mb-5 No obstante, esta transformación también plantea desafíos sociales importantes, como la brecha digital, la dependencia tecnológica y la necesidad de desarrollar competencias críticas para el uso responsable de la información.
+    p.mb-5(data-aos="fade-right") No obstante, esta transformación también plantea desafíos sociales importantes, como la brecha digital, la dependencia tecnológica y la necesidad de desarrollar competencias críticas para el uso responsable de la información.
 
     .row.fondo2.p-4.p-lg-5.p-md-4.mb-0(data-aos="fade-down")
       .col-lg-12
@@ -219,13 +219,13 @@
     #t_1_3.titulo-segundo.mb-5
       h2 1.3 Tecnología y transformación Social
     
-    p.mb-4 La sociedad de la información se define por la producción, circulación y acceso masivo a datos a través de medios digitales. La información se convierte en un recurso estratégico para el desarrollo social, económico, científico y educativo, así mismo, su disponibilidad inmediata transforma la manera en que las personas aprenden, trabajan y toman decisiones.
-    p.mb-4 Este modelo social surge con la expansión de Internet, las tecnologías de la comunicación y los sistemas de almacenamiento digital, que permiten consultar en segundos volúmenes de información que antes requerían largos procesos de búsqueda en fuentes físicas.
+    p.mb-4(data-aos="fade-right") La sociedad de la información se define por la producción, circulación y acceso masivo a datos a través de medios digitales. La información se convierte en un recurso estratégico para el desarrollo social, económico, científico y educativo, así mismo, su disponibilidad inmediata transforma la manera en que las personas aprenden, trabajan y toman decisiones.
+    p.mb-4(data-aos="fade-left") Este modelo social surge con la expansión de Internet, las tecnologías de la comunicación y los sistemas de almacenamiento digital, que permiten consultar en segundos volúmenes de información que antes requerían largos procesos de búsqueda en fuentes físicas.
     
-    .cajon.color-primario.p-lg-5.p-4.mb-5
+    .cajon.color-primario.p-lg-5.p-4.mb-5(data-aos="fade-right")
       p.mb-0 La sociedad de la información plantea el reto de formar sujetos críticos, capaces no solo de consumir datos, sino de analizarlos, validarlos y transformarlos en conocimiento significativo.
     
-    p.mb-5 Esto implica enseñar a:
+    p.mb-5(data-aos="fade-left") Esto implica enseñar a:
 
     AcordionA.activ(tipo="a" clase-tarjeta="tarjeta tarjeta--azull").mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center.p-0(titulo="Buscar información confiable")
@@ -250,9 +250,9 @@
             .col-lg-6.col-md-10.col-10
               img(src='@/assets/curso/tema1/17.png', alt='')
     
-    p.mb-5 Por ello, la formación en la sociedad de la información debe incluir competencias informacionales y digitales, tales como:
+    p.mb-5(data-aos="fade-left") Por ello, la formación en la sociedad de la información debe incluir competencias informacionales y digitales, tales como:
 
-    .row.justify-content-center.align-items-center.mb-0.mb-lg-4
+    .row.justify-content-center.align-items-center.mb-0.mb-lg-4(data-aos="fade-right")
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .bg3.p-4
           p.mb-0.text-center Lectura crítica de contenidos digitales.
@@ -263,7 +263,7 @@
         .bg3.p-4
           p.mb-0.text-center Uso ético de la información.
 
-    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5(data-aos="fade-right")
       .col-lg-6.col-md-6.mb-lg-0.mb-4
         .bg3.p-4.h-100.cen
           p.mb-0.text-center Gestión organizada de datos.
@@ -286,10 +286,10 @@
     #t_1_4.titulo-segundo.mb-5
       h2 1.4 Sociedad del conocimiento
     
-    p.mb-4 La sociedad del conocimiento representa una evolución frente a la sociedad de la información. Mientras esta última se centra en el acceso y circulación de datos, la sociedad del conocimiento pone el énfasis en la capacidad de las personas y las organizaciones para interpretar, aplicar y transformar la información en soluciones útiles para la vida social, económica, científica y educativa.
-    p.mb-4 Aquí el valor no está en la información sino en su transformación en soluciones, lo cual implica procesos cognitivos superiores como:
+    p.mb-4(data-aos="fade-left") La sociedad del conocimiento representa una evolución frente a la sociedad de la información. Mientras esta última se centra en el acceso y circulación de datos, la sociedad del conocimiento pone el énfasis en la capacidad de las personas y las organizaciones para interpretar, aplicar y transformar la información en soluciones útiles para la vida social, económica, científica y educativa.
+    p.mb-4(data-aos="fade-right") Aquí el valor no está en la información sino en su transformación en soluciones, lo cual implica procesos cognitivos superiores como:
 
-    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5(data-aos="fade-left")
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .bg4.p-4.h-100.cen
           h4.mb-0.text-center El análisis
@@ -303,7 +303,7 @@
         .bg4.p-4.h-100.cen
           h4.mb-0.text-center La toma de decisiones fundamentadas
 
-    p.mb-5 En el ámbito educativo se manifiesta en varios aspectos:
+    p.mb-5(data-aos="fade-right") En el ámbito educativo se manifiesta en varios aspectos:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -343,22 +343,22 @@
                 td Construcción colectiva del saber mediante la interacción y el intercambio de perspectivas.
                 td Participación en comunidades de aprendizaje, redes académicas y entornos virtuales colaborativos.
     
-    .titulo.mb-5(data-aos="fade-left")
+    .titulo.mb-5(data-aos="fade-right")
       .titulo__icono
       .titulo__texto
         img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
         h3.mb-0 Proceso de transformación de información en innovación
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
-        SlyderB.slib(:datos="datosSlyder").bg9.p-lg-5.p-4(data-aos="fade-left")
+        SlyderB.slib(:datos="datosSlyder").bg9.p-lg-5.p-4
 
 
     separador
     #t_1_5.titulo-segundo.mb-5
       h2 1.5 Sociedad de red
 
-    .row.justify-content-center.align-items-start.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-start.mb-5(data-aos="fade-right")
       .col-lg-5.pe-lg-0.col-md-7.col-10.mb-lg-0.mb-4
         img.d-none.d-lg-block(src='@/assets/curso/tema1/19.png', alt='')
       .col-lg-7.ps-lg-0.mb-0
@@ -366,7 +366,7 @@
           p.mb-3 Este concepto explica que la sociedad contemporánea ya no se estructura únicamente en instituciones jerárquicas tradicionales, sino en redes de nodos interconectados. Los nodos pueden ser personas, instituciones, plataformas digitales, comunidades o sistemas de información que se relacionan dinámicamente mediante flujos constantes de datos, conocimiento y comunicación.
           p.mb-0 La interconexión digital ha permitido que las relaciones sociales, laborales y educativas trasciendan las barreras geográficas y temporales, configurando una organización más flexible, descentralizada y colaborativa.
 
-    p.mb-5 En este modelo:
+    p.mb-5(data-aos="fade-left") En este modelo:
 
     .row.justify-content-center.align-items-stretch.mb-0(data-aos="fade-right")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
@@ -387,7 +387,7 @@
     #t_1_6.titulo-segundo.mb-5
       h2 1.6 Implicaciones para la educación
     
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.bloque1.p-4.p-lg-5.mb-0
           .bloque-texto-g__img(
