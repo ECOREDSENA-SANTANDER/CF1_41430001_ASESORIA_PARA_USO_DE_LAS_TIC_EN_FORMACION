@@ -23,7 +23,7 @@ export default {
         '<b> Objetivo:</b> verificar la comprensión de los conceptos fundamentales relacionados con la sociedad digital, la educación mediada por TIC y la transformación de los roles del docente y el estudiante.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,

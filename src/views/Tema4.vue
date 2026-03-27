@@ -88,12 +88,8 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/5.png')})`}"
       )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 La encuesta es una técnica ampliamente utilizada en los procesos de investigación para identificar problemáticas, conocer percepciones y recopilar información de un grupo amplio de personas. Su principal ventaja consiste en la posibilidad de obtener datos de manera sistemática, organizada y en un tiempo relativamente corto, lo que facilita el análisis de diferentes situaciones o fenómenos. 
-        br
-        br
-        p.mb-0 Para garantizar la confiabilidad de los resultados, la encuesta debe aplicarse mediante un proceso estructurado, que incluya la formulación clara de las preguntas, la adecuada definición de la población o muestra y un análisis riguroso de la información obtenida. Cuando se diseña y se implementa de manera adecuada, esta técnica permite identificar tendencias, interpretar opiniones y comprender necesidades presentes en un contexto específico.
-
+      .bloque-texto-g__texto.p-4.p-lg-5
+        p.mb-0 La encuesta es una técnica ampliamente utilizada en los procesos de investigación para identificar problemáticas, conocer percepciones y recopilar información de un grupo amplio de personas. Su principal ventaja consiste en la posibilidad de obtener datos de manera sistemática, organizada y en un tiempo relativamente corto, lo que facilita el análisis de diferentes situaciones o fenómenos.
 
 </template>
 

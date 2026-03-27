@@ -46,12 +46,12 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Tecnología y transformación Social',
+            titulo: 'Tecnología y transformación social',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Tecnología y transformación Social',
+            titulo: 'Sociedad de la informacion',
             hash: 't_1_3',
           },
           {
@@ -261,27 +261,33 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Area, M. (2012). <em>Sociedad digital y educación</em>.',
+      referencia:
+        'Area Moreira, M. (2012). La alfabetización en la sociedad digital. Alfabetización digital y competencias informales.',
       link: '',
     },
     {
-      referencia: 'Castells, M. (2000). <em>La era de la información</em>.',
+      referencia:
+        'Cabero, J. & Barroso, J. (2015). Nuevos retos en tecnología educativa. Editorial Síntesis.',
       link: '',
     },
     {
-      referencia: 'Coll, C. (2008). <em>Aprender y enseñar con TIC</em>.',
+      referencia:
+        'Castells, M. (2000). La era de la información: economía, sociedad y cultura (2.ª ed.). Alianza Editorial.',
       link: '',
     },
     {
-      referencia: 'Siemens, G. (2005). <em>Conectivismo</em>.',
+      referencia:
+        'Coll Salvador, C. (2008). Aprender y enseñar con las TIC: expectativas, realidad y potencialidades. Boletín de la institución libre de enseñanza, 72 (1), 17-40.',
       link: '',
     },
     {
-      referencia: 'UNESCO (2019). <em>Competencias TIC para docentes</em>.',
+      referencia:
+        'Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO). (2019). Marco de competencias de los docentes en materia de TIC. UNESCO.',
       link: '',
     },
     {
-      referencia: 'Cabero, J. (2015). <em>Tecnología educativa</em>.',
+      referencia:
+        'Siemens, G. (2004). Conectivismo: una teoría de aprendizaje para la era digital.',
       link: '',
     },
   ],
@@ -340,7 +346,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

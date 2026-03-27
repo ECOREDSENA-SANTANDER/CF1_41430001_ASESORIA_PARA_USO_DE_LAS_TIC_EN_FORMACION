@@ -63,15 +63,15 @@
         .col-lg-7.col-md-8
           h3.mb-2 Globalización y su impacto en la educación y la cultura contemporánea
           .enca.mb-4
-          p.mb-4 Se comparte el siguiente anexo como complemento a los conceptos abordados hasta el momento. Allí encontrará una síntesis organizada que le permite ampliar su comprensión y establecer relaciones más claras. 
-          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Eu5rJpZSDwg" target="_blank")
+          p.mb-4 Se comparte el siguiente anexo como complemento a los conceptos abordados hasta el momento. Allí encontrará una síntesis organizada que le permitirá ampliar su comprensión y establecer relaciones más claras.
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Globalizacion_y_su_impacto_en_la_educacion_y_la_cultura_contemporanea.pdf')" target="_blank")
             span Descargar
             i.fas.fa-file-download
 
 
     separador
     #t_1_2.titulo-segundo.mb-5
-      h2 1.2 Tecnología y transformación Social
+      h2 1.2 Tecnología y transformación social
 
     p.mb-5(data-aos="fade-left") La tecnología actúa como un motor de cambio social porque influye directamente en la manera como las personas viven, trabajan, se comunican y aprenden. No se limita a la creación de herramientas o dispositivos; implica la generación de nuevas prácticas culturales, económicas y educativas que reconfiguran la vida cotidiana. 
 
@@ -82,7 +82,7 @@
     p.mb-5(data-aos="fade-left") A lo largo de la historia, cada avance tecnológico ha producido transformaciones significativas en la organización de la sociedad. Por ejemplo, la invención de la imprenta facilitó la masificación del conocimiento escrito; la radio y la televisión ampliaron el acceso a la información; e Internet consolidó la comunicación global en tiempo real.
 
     .cajon.color-primario.p-lg-5.p-4.mb-5(data-aos="fade-right")
-      p.mb-0 En la actualidad, la tecnología no solo optimiza y agiliza procesos, también reconfigura las formas de interacción, transformando las relaciones personales, laborales y académicas que ahora se desarrollan en entornos digitales mediante plataformas virtuales, redes sociales, aplicaciones de mensajería y espacios colaborativos que facilitan la comunicación en tiempo real y la construcción colectiva de conocimiento.
+      p.mb-0 En la actualidad, la tecnología no solo optimiza y agiliza procesos; también reconfigura las formas de interacción, transformando las relaciones personales, laborales y académicas, que ahora se desarrollan en entornos digitales mediante plataformas virtuales, redes sociales, aplicaciones de mensajería y espacios colaborativos que facilitan la comunicación en tiempo real y la construcción colectiva de conocimiento.
 
     p.mb-5(data-aos="fade-left") En el campo productivo, la tecnología ha permitido:
     
@@ -136,91 +136,88 @@
     
     p.mb-5(data-aos="fade-right") No obstante, esta transformación también plantea desafíos sociales importantes, como la brecha digital, la dependencia tecnológica y la necesidad de desarrollar competencias críticas para el uso responsable de la información.
 
-    .row.fondo2.p-4.p-lg-5.p-md-4.mb-0(data-aos="fade-down")
-      .col-lg-12
-        .tarjeta--gris.ul.p-4.mb-0(data-aos="fade-right")
-          LineaTiempoC.color-acento-botones
-            .row.justify-content-center.align-items-center(titulo="Siglo XV")
-              .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
-                img(src='@/assets/curso/tema1/11.svg')
-              .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
-                h4.mb-4 Invención de la imprenta
-                p.mb-4 #[b Hito tecnológico:] reproducción masiva del conocimiento escrito.
-                p.mb-0 #[b Impacto educativo:]
-                p.mb-0 • Democratización progresiva del acceso a textos.
-                p.mb-0 • Estandarización de contenidos académicos.
-                p.mb-4 • Consolidación del libro como recurso central del aprendizaje.
-                p.mb-0 #[b Transformación pedagógica:]
-                p.mb-0 • Paso de tradición oral a cultura escrita.
-                p.mb-0 • Nacimiento del currículo estructurado.
-            .row.justify-content-center.align-items-center(titulo="Siglo XX")
-              .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
-                img(src='@/assets/curso/tema1/12.svg')
-              .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
-                h4.mb-4 Radio y televisión educativa 
-                p.mb-4 #[b Hito tecnológico:] medios de comunicación masiva.
-                p.mb-0 #[b Impacto educativo:]
-                p.mb-0 • Expansión de la educación a zonas rurales y poblaciones dispersas.
-                p.mb-0 • Integración de recursos audiovisuales (imagen y sonido).
-                p.mb-4 • Educación a distancia en formato broadcast.
-                p.mb-0 #[b Transformación pedagógica:]
-                p.mb-0 • Modelo transmisivo ampliado.
-                p.mb-0 • Incorporación de apoyo audiovisual en la enseñanza.
-            .row.justify-content-center.align-items-center(titulo="Finales del siglo XX")
-              .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
-                img(src='@/assets/curso/tema1/13.svg')
-              .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
-                h4.mb-4 Internet y comunicación global 
-                p.mb-4 #[b Hito tecnológico:] conectividad digital y red global.
-                p.mb-0 #[b Impacto educativo:]
-                p.mb-0 • Acceso inmediato a información mundial.
-                p.mb-0 • Comunicación síncrona y asíncrona.
-                p.mb-4 • Surgimiento de comunidades virtuales de aprendizaje.
-                p.mb-0 #[b Transformación pedagógica:]
-                p.mb-0 • Inicio del aprendizaje colaborativo en red.
-                p.mb-0 • Emergencia del estudiante como buscador activo de información.
-            .row.justify-content-center.align-items-center(titulo="Siglo XXI – inicio")
-              .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
-                img(src='@/assets/curso/tema1/14.svg')
-              .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
-                h4.mb-4 Plataformas virtuales y recursos interactivos 
-                p.mb-4 #[b Hito tecnológico:] LMS, entornos virtuales de aprendizaje y contenidos digitales.
-                p.mb-0 #[b Impacto educativo:]
-                p.mb-0 • Virtualización de cursos completos.
-                p.mb-0 • Incorporación de multimedia, simuladores y actividades interactivas.
-                p.mb-4 • Flexibilización de tiempos y espacios formativos.
-                p.mb-0 #[b Transformación pedagógica:]
-                p.mb-0 • Rol del docente como mediador digital.
-                p.mb-0 • Mayor autonomía del estudiante.
-                p.mb-0 • Aprendizaje ubicuo.
-            .row.justify-content-center.align-items-center(titulo="Siglo XXI – consolidación")
-              .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
-                img(src='@/assets/curso/tema1/15.svg')
-              .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
-                h4.mb-4 Automatización, digitalización y teletrabajo 
-                p.mb-4 #[b Hito tecnológico:] inteligencia artificial, analítica de datos y simulación digital.
-                p.mb-0 #[b Impacto educativo:]
-                p.mb-0 • Nuevas competencias digitales y profesionales.
-                p.mb-0 • Formación técnica en entornos simulados.
-                p.mb-4 • Integración de educación y mercado laboral digital.
-                p.mb-0 #[b Transformación pedagógica:]
-                p.mb-0 • Educación basada en competencias.
-                p.mb-0 • Aprendizaje experiencial mediado por tecnología.
-            .row.justify-content-center.align-items-center(titulo="Desafíos contemporáneos")
-              .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
-                img(src='@/assets/curso/tema1/16.svg')
-              .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
-                p.mb-4 Brecha digital y desigualdad tecnológica.
-                p.mb-4 Desarrollo de competencias críticas y pensamiento ético digital.
-                p.mb-0 Educación para el uso responsable de la información.
+    AcordionA.activ(tipo="a" clase-tarjeta="tarjeta tarjeta--azull").mb-0(data-aos="fade-left")
+      .row.justify-content-center.align-items-center(titulo="Siglo XV")
+        .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
+          img(src='@/assets/curso/tema1/11.svg')
+        .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
+          h4.mb-4 Invención de la imprenta
+          p.mb-4 #[b Hito tecnológico:] reproducción masiva del conocimiento escrito.
+          p.mb-0 #[b Impacto educativo:]
+          p.mb-0 • Democratización progresiva del acceso a textos.
+          p.mb-0 • Estandarización de contenidos académicos.
+          p.mb-4 • Consolidación del libro como recurso central del aprendizaje.
+          p.mb-0 #[b Transformación pedagógica:]
+          p.mb-0 • Paso de tradición oral a cultura escrita.
+          p.mb-0 • Nacimiento del currículo estructurado.
+      .row.justify-content-center.align-items-center(titulo="Siglo XX")
+        .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
+          img(src='@/assets/curso/tema1/12.svg')
+        .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
+          h4.mb-4 Radio y televisión educativa 
+          p.mb-4 #[b Hito tecnológico:] medios de comunicación masiva.
+          p.mb-0 #[b Impacto educativo:]
+          p.mb-0 • Expansión de la educación a zonas rurales y poblaciones dispersas.
+          p.mb-0 • Integración de recursos audiovisuales (imagen y sonido).
+          p.mb-4 • Educación a distancia en formato #[em broadcast].
+          p.mb-0 #[b Transformación pedagógica:]
+          p.mb-0 • Modelo transmisivo ampliado.
+          p.mb-0 • Incorporación de apoyo audiovisual en la enseñanza.
+      .row.justify-content-center.align-items-center(titulo="Finales del siglo XX")
+        .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
+          img(src='@/assets/curso/tema1/13.svg')
+        .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
+          h4.mb-4 Internet y comunicación global 
+          p.mb-4 #[b Hito tecnológico:] conectividad digital y red global.
+          p.mb-0 #[b Impacto educativo:]
+          p.mb-0 • Acceso inmediato a información mundial.
+          p.mb-0 • Comunicación síncrona y asíncrona.
+          p.mb-4 • Surgimiento de comunidades virtuales de aprendizaje.
+          p.mb-0 #[b Transformación pedagógica:]
+          p.mb-0 • Inicio del aprendizaje colaborativo en red.
+          p.mb-0 • Emergencia del estudiante como buscador activo de información.
+      .row.justify-content-center.align-items-center(titulo="Siglo XXI – inicio")
+        .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
+          img(src='@/assets/curso/tema1/14.svg')
+        .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
+          h4.mb-4 Plataformas virtuales y recursos interactivos 
+          p.mb-4 #[b Hito tecnológico:] LMS, entornos virtuales de aprendizaje y contenidos digitales.
+          p.mb-0 #[b Impacto educativo:]
+          p.mb-0 • Virtualización de cursos completos.
+          p.mb-0 • Incorporación de multimedia, simuladores y actividades interactivas.
+          p.mb-4 • Flexibilización de tiempos y espacios formativos.
+          p.mb-0 #[b Transformación pedagógica:]
+          p.mb-0 • Rol del docente como mediador digital.
+          p.mb-0 • Mayor autonomía del estudiante.
+          p.mb-0 • Aprendizaje ubicuo.
+      .row.justify-content-center.align-items-center(titulo="Siglo XXI – consolidación")
+        .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
+          img(src='@/assets/curso/tema1/15.svg')
+        .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
+          h4.mb-4 Automatización, digitalización y teletrabajo 
+          p.mb-4 #[b Hito tecnológico:] inteligencia artificial, analítica de datos y simulación digital.
+          p.mb-0 #[b Impacto educativo:]
+          p.mb-0 • Nuevas competencias digitales y profesionales.
+          p.mb-0 • Formación técnica en entornos simulados.
+          p.mb-4 • Integración de educación y mercado laboral digital.
+          p.mb-0 #[b Transformación pedagógica:]
+          p.mb-0 • Educación basada en competencias.
+          p.mb-0 • Aprendizaje experiencial mediado por tecnología.
+      .row.justify-content-center.align-items-center(titulo="Desafíos contemporáneos")
+        .col-lg-5.col-md-8.col-10.order-lg-1.order-md-2.order-2
+          img(src='@/assets/curso/tema1/16.svg')
+        .col-lg-5.mb-lg-0.mb-4.order-lg-2.order-md-1.order-1
+          p.mb-4 Brecha digital y desigualdad tecnológica.
+          p.mb-4 Desarrollo de competencias críticas y pensamiento ético digital.
+          p.mb-0 Educación para el uso responsable de la información.
             
 
     separador
     #t_1_3.titulo-segundo.mb-5
-      h2 1.3 Tecnología y transformación Social
+      h2 1.3 Sociedad de la informacion
     
     p.mb-4(data-aos="fade-right") La sociedad de la información se define por la producción, circulación y acceso masivo a datos a través de medios digitales. La información se convierte en un recurso estratégico para el desarrollo social, económico, científico y educativo, así mismo, su disponibilidad inmediata transforma la manera en que las personas aprenden, trabajan y toman decisiones.
-    p.mb-4(data-aos="fade-left") Este modelo social surge con la expansión de Internet, las tecnologías de la comunicación y los sistemas de almacenamiento digital, que permiten consultar en segundos volúmenes de información que antes requerían largos procesos de búsqueda en fuentes físicas.
+    p.mb-4(data-aos="fade-left") Este modelo social surge con la expansión de Internet, las tecnologías de la comunicación y los sistemas de almacenamiento digital, que permiten consultar en segundos, volúmenes de información que antes requerían largos procesos de búsqueda en fuentes físicas.
     
     .cajon.color-primario.p-lg-5.p-4.mb-5(data-aos="fade-right")
       p.mb-0 La sociedad de la información plantea el reto de formar sujetos críticos, capaces no solo de consumir datos, sino de analizarlos, validarlos y transformarlos en conocimiento significativo.
@@ -241,14 +238,14 @@
             .col-lg-6.mb-lg-0.mb-4
               p.mb-0 Ante la sobreoferta informativa, es necesario aprender a seleccionar lo pertinente según objetivos de aprendizaje. Filtrar supone jerarquizar, contrastar y organizar la información relevante, descartando aquella que no aporta valor formativo.
             .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema1/17.png', alt='')
+              img(src='@/assets/curso/tema1/27.png', alt='')
       .row.justify-content-center.align-items-center.p-0(titulo="Evitar la infoxicación")
         .col-lg-11.mb-0
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-6.mb-lg-0.mb-4
               p.mb-0 La “infoxicación” hace referencia a la saturación de información que dificulta la comprensión y la toma de decisiones. El exceso de datos, notificaciones y estímulos digitales puede generar dispersión cognitiva, aprendizaje superficial y desinformación.
             .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema1/17.png', alt='')
+              img(src='@/assets/curso/tema1/28.png', alt='')
     
     p.mb-5(data-aos="fade-left") Por ello, la formación en la sociedad de la información debe incluir competencias informacionales y digitales, tales como:
 
@@ -314,7 +311,7 @@
           table
             thead
               tr
-                th.text-center Dimensión
+                th Dimensión
                 th Descripción conceptual
                 th Manifestación en el campo educativo
             tbody

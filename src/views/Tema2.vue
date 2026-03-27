@@ -29,7 +29,7 @@
           table
             thead
               tr
-                th.text-center Aspecto
+                th Aspecto
                 th Descripción
             tbody
               tr
@@ -40,7 +40,7 @@
                 td Los estudiantes pueden organizar su tiempo y avanzar en su aprendizaje de acuerdo con su ritmo.
               tr
                 td Diversidad de recursos
-                td Se integran videos, simulaciones, plataformas virtuales, foros, podcasts y materiales interactivos.
+                td Se integran videos, simulaciones, plataformas virtuales, foros, pódcast y materiales interactivos.
               tr
                 td Aprendizaje autónomo
                 td Promueve la responsabilidad del estudiante sobre su propio proceso formativo.
@@ -75,7 +75,7 @@
           table
             thead
               tr
-                th.text-center Componente
+                th Componente
                 th Descripción
                 th Ejemplo
             tbody
@@ -113,7 +113,7 @@
           table
             thead
               tr
-                th.text-center Modelo tradicional
+                th Modelo tradicional
                 th Transformación con TIC
                 th Explicación
             tbody
@@ -166,7 +166,7 @@
           table
             thead
               tr
-                th.text-center Modelo
+                th Modelo
                 th Características principales
                 th Aplicación en entornos digitales
             tbody

@@ -15,22 +15,11 @@
           p.mb-3 Los roles formativos mediados por tecnologías hacen referencia a las funciones, responsabilidades y competencias que asumen tutores y estudiantes dentro de procesos educativos apoyados en TIC. La mediación tecnológica no solo introduce herramientas, sino que redefine la manera en que se orienta, acompaña y construye el aprendizaje, desplazando modelos centrados en la transmisión hacia dinámicas participativas, flexibles y colaborativas. 
           p.mb-0 El tutor de acompañamiento deja de ser únicamente expositor de contenidos para convertirse en orientador del proceso, mientras que el estudiante asume un papel activo en la gestión de su aprendizaje. Esta reconfiguración de roles exige desarrollo de competencias pedagógicas, digitales y comunicativas que garanticen procesos formativos pertinentes y de calidad.
     
-    p.mb-4(data-aos="fade-right") Le invitamos a revisar este recurso complementario, donde se presentan de forma sintética los elementos clave del:
-
-    .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-left")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img.img-a.img-t.mx-lg-4(src="@/assets/curso/tema3/2.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0.mx-lg-4
-              h4.mb-3 Rol del estudiante en la era digital
-              p.mb-0 Este material le permitirá comprender mejor las responsabilidades, habilidades y actitudes de este rol en los entornos de aprendizaje mediados por tecnología.
-            .col-sm-auto.pe-lg-5
-              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=3O9lDdzv6DQ" target="_blank")
-                span Descargar 
-                i.fas.fa-file-download
+    p.mb-5(data-aos="fade-right") Le invitamos a revisar este recurso complementario, donde se presentan de forma sintética los elementos clave del:
     
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-10
+        img(src='@/assets/curso/tema3/15.svg' alt='AvatarTop')
     
     separador
     #t_3_1.titulo-segundo.mb-5
@@ -93,69 +82,6 @@
         .bg10.cen.p-lg-5.p-4.h-100
           p.mb-0.mx-lg-3 Por una parte, el tutor docente es recursivo y es capaz de #[b transformar las limitaciones en oportunidades de aprendizaje], utilizando de manera creativa los recursos disponibles; esto implica diseñar materiales propios, reutilizar recursos educativos abiertos, integrar redes sociales con fines pedagógicos y generar estrategias didácticas que faciliten la comprensión y la participación de los estudiantes. De esta manera, el tutor no depende exclusivamente de herramientas sofisticadas, sino que aprovecha el potencial de los recursos existentes para enriquecer el proceso formativo.
 
-    .titulo.mb-5(data-aos="fade-left")
-      .titulo__icono
-      .titulo__texto
-        img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
-        h3.mb-0 Globalización y su impacto en la educación y la cultura contemporánea
-
-    AcordionA.activ(tipo="a" clase-tarjeta="tarjeta tarjeta--azull").mb-5(data-aos="fade-right")
-      .row.justify-content-center.align-items-center.p-0(titulo="Transformación de dinámicas sociales y culturales por la globalización")
-        .col-lg-11.mb-0
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-6.mb-lg-0.mb-4
-              p.mb-3 #[b Propósito y función]
-              p.mb-3 • Reducción de barreras espacio-tiempo que facilita la circulación inmediata de información, bienes culturales y tecnologías.
-              p.mb-3 • Impulso de interdependencia mundial que integra sociedades y mercados y hace visibles problemas que requieren respuestas transnacionales.
-              p.mb-0 • Alteración y hibridación de prácticas culturales locales por la recepción de modelos extranjeros.
-            .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema3/8.png', alt='')
-      .row.justify-content-center.align-items-center.p-0(titulo="Oportunidades en el ámbito educativo derivadas de la globalización")
-        .col-lg-11.mb-0
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-6.mb-lg-0.mb-4
-              p.mb-3 #[b Propósito y función]
-              p.mb-3 • Ampliación del acceso y uso de metodologías globales que diversifican el aprendizaje.
-              p.mb-0 • Cooperación internacional que facilita movilidad académica y formación continua.
-            .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema3/9.png', alt='')
-      .row.justify-content-center.align-items-center.p-0(titulo="Programas virtuales internacionales: características y efectos")
-        .col-lg-11.mb-0
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-6.mb-lg-0.mb-4
-              p.mb-3 #[b Propósito y función]
-              p.mb-3 • Oferta de cursos y certificaciones accesibles sin desplazamiento, con menores costos pero necesidad de conectividad.
-              p.mb-0 • Estándares interoperables e intercambio intercultural que favorecen la movilidad académica.
-            .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema3/10.png', alt='')
-      .row.justify-content-center.align-items-center.p-0(titulo="Redes académicas globales: interacción y colaboración")
-        .col-lg-11.mb-0
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-6.mb-lg-0.mb-4
-              p.mb-3 #[b Propósito y función]
-              p.mb-3 • Comunidades y plataformas colaborativas que comparten proyectos, generan sinergias e impulsan transferencia tecnológica.
-              p.mb-0 • Requiere infraestructura digital, políticas de cooperación y normas sobre propiedad y reconocimiento académico.
-            .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema3/11.png', alt='')
-      .row.justify-content-center.align-items-center.p-0(titulo="Recursos educativos abiertos: acceso y adaptación")
-        .col-lg-11.mb-0
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-6.mb-lg-0.mb-4
-              p.mb-3 #[b Propósito y función]
-              p.mb-3 • Contenidos con licencias abiertas que permiten adaptación, innovación pedagógica y reducción de costos.
-              p.mb-0 • Dependencia de políticas institucionales para la curación, calidad y sostenibilidad de repositorios.
-            .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema3/12.png', alt='')
-      .row.justify-content-center.align-items-center.p-0(titulo="Retos y consideraciones críticas en la era globalizada")
-        .col-lg-11.mb-0
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-6.mb-lg-0.mb-4
-              p.mb-3 #[b Propósito y función]
-              p.mb-3 • Desarrollo de pensamiento crítico para seleccionar información ante la sobreabundancia y la desinformación.
-              p.mb-0 • Reducir brechas de acceso y evitar la homogenización cultural mediante políticas, inversión y valoración de identidades.
-            .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema3/13.png', alt='')
-    
     p.mb-5(data-aos="fade-left") El estudiante como protagonista deja de ser un receptor pasivo de información y asume un papel activo y responsable en la construcción de su aprendizaje, lo cual implica desarrollar competencias cognitivas, digitales y sociales que le permitan gestionar información, participar en espacios colaborativos y producir conocimiento. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -167,7 +93,7 @@
           table
             thead
               tr
-                th.text-center Característica del estudiante
+                th Característica del estudiante
                 th Descripción
                 th Ejemplo en entornos digitales
             tbody
@@ -199,11 +125,11 @@
             .tarjeta.bg11.p-4.rounded-0.h-100
               .tarjeta.bg-white.p-4.p-lg-5.h-100
                 TarjetaAudio.color-acento-botones.mb-4(
-                texto="<em>Podcast:</em> Transformación educativa en entornos virtuales"
+                texto="Pódcast: Transformación educativa en entornos virtuales"
                 :audio="require('@/assets/actividad/audio/screen-change.mp3')"
             ).mb-4
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-                p.mb-0 Lo invitamos a visitar el siguiente #[em Podcast] en donde encontrará información sobre este gran proceso de transformación de la educación.
+                p.mb-0 Lo invitamos a visitar el siguiente Pódcast en donde encontrará información sobre este gran proceso de transformación de la educación.
 
 
     separador
@@ -222,13 +148,13 @@
           table
             thead
               tr
-                th.text-center Categoría
-                th.text-center Aspecto
+                th Categoría
+                th Aspecto
                 th Explicación
             tbody
               tr
-                td(rowspan="3") #[b Ventaja]
-                td.text-center Democratización del conocimiento.
+                td(rowspan="3" style="vertical-align: middle") #[b Ventaja]
+                td Democratización del conocimiento.
                 td Las TIC facilitan el acceso masivo a información y recursos educativos abiertos. Actualmente es posible participar en cursos virtuales, bibliotecas digitales, repositorios académicos y comunidades de aprendizaje sin limitaciones geográficas, lo que favorece la inclusión educativa y el aprendizaje permanente.
               tr
                 td Flexibilidad.
@@ -237,8 +163,8 @@
                 td Innovación didáctica.
                 td Las herramientas digitales posibilitan el desarrollo de metodologías activas como simuladores, aprendizaje basado en proyectos, gamificación, realidad aumentada y entornos colaborativos, lo que fortalece la motivación, la participación y la comprensión significativa.
               tr
-                td(rowspan="3") #[b Desventaja]
-                td.text-center Brecha digital.
+                td(rowspan="3" style="vertical-align: middle") #[b Desventaja]
+                td Brecha digital.
                 td No todos los estudiantes cuentan con acceso a conectividad, dispositivos tecnológicos o competencias digitales suficientes. Esta situación puede generar desigualdades en el acceso a la educación si no se implementan estrategias institucionales de inclusión digital.
               tr
                 td Dependencia tecnológica.

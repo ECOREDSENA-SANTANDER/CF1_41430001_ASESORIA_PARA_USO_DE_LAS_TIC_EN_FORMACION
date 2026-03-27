@@ -24,7 +24,7 @@
           table
             thead
               tr
-                th.text-center Herramienta TIC
+                th Herramienta TIC
                 th ¿Para qué se utiliza?
                 th Ejemplo en formación
             tbody
