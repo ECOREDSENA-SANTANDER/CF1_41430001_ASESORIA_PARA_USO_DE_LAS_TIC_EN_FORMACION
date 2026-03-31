@@ -7,7 +7,7 @@
         span 3
       h1 Impacto de las tecnologías en los procesos formativos: ventajas, desafíos y nuevos roles educativos
     
-    .row.justify-content-center.align-items-start.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-start.mb-0(data-aos="fade-left")
       .col-lg-5.pe-lg-0.col-md-7.col-10.mb-lg-0.mb-4
         img.d-none.d-lg-block(src='@/assets/curso/tema3/1.png', alt='')
       .col-lg-7.ps-lg-0.mb-0
@@ -15,11 +15,6 @@
           p.mb-3 Los roles formativos mediados por tecnologías hacen referencia a las funciones, responsabilidades y competencias que asumen tutores y estudiantes dentro de procesos educativos apoyados en TIC. La mediación tecnológica no solo introduce herramientas, sino que redefine la manera en que se orienta, acompaña y construye el aprendizaje, desplazando modelos centrados en la transmisión hacia dinámicas participativas, flexibles y colaborativas. 
           p.mb-0 El tutor de acompañamiento deja de ser únicamente expositor de contenidos para convertirse en orientador del proceso, mientras que el estudiante asume un papel activo en la gestión de su aprendizaje. Esta reconfiguración de roles exige desarrollo de competencias pedagógicas, digitales y comunicativas que garanticen procesos formativos pertinentes y de calidad.
     
-    p.mb-5(data-aos="fade-right") Le invitamos a revisar este recurso complementario, donde se presentan de forma sintética los elementos clave del:
-    
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-10
-        img(src='@/assets/curso/tema3/15.svg' alt='AvatarTop')
     
     separador
     #t_3_1.titulo-segundo.mb-5
@@ -129,7 +124,7 @@
                 :audio="require('@/assets/actividad/audio/screen-change.mp3')"
             ).mb-4
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-                p.mb-0 Lo invitamos a visitar el siguiente Pódcast en donde encontrará información sobre este gran proceso de transformación de la educación.
+                p.mb-0 Lo invitamos a visitar el siguiente pódcast en donde encontrará información sobre este gran proceso de transformación de la educación.
 
 
     separador

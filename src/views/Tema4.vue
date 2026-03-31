@@ -84,12 +84,25 @@
         img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
         h3.mb-0 La encuesta como técnica de recolección de información
 
-    .bloque-texto-g.color-primario.p-4.p-lg-5.p-md-4.mb-0(data-aos="fade-left")
+    .bloque-texto-g.color-primario.p-4.p-lg-5.p-md-4.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/5.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
         p.mb-0 La encuesta es una técnica ampliamente utilizada en los procesos de investigación para identificar problemáticas, conocer percepciones y recopilar información de un grupo amplio de personas. Su principal ventaja consiste en la posibilidad de obtener datos de manera sistemática, organizada y en un tiempo relativamente corto, lo que facilita el análisis de diferentes situaciones o fenómenos.
+
+    .titulo.mb-5(data-aos="fade-right")
+      .titulo__icono
+      .titulo__texto
+        img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
+        h3.mb-0 Rol del estudiante en la era digital 
+    
+    p.mb-5(data-aos="fade-right") Para ampliar la comprensión del tema, se presenta a continuación una infografía diseñada para brindar mayor claridad sobre el rol del estudiante, destacando sus funciones, responsabilidades y actitudes clave en el proceso formativo. Este recurso facilita la identificación de buenas prácticas y orienta al estudiante en el desarrollo de un aprendizaje autónomo, participativo y significativo. 
+    
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-10
+        img(src='@/assets/curso/tema3/15.svg' alt='AvatarTop')
+
 
 </template>
 
