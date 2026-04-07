@@ -77,6 +77,8 @@
                 td Facilitador de información.
                 td Orientador del pensamiento crítico.
                 td Dinamizador de comunidades de aprendizaje.
+    
+    p.mb-5 En la transición hacia la sociedad del conocimiento y en red, la formación se centra en construir conocimiento a partir de la información. En este contexto, las encuestas son una técnica clave, ya que permiten recolectar datos sobre necesidades y percepciones, facilitando el análisis, la toma de decisiones y el aprendizaje en entornos dinámicos y colaborativos. 
 
     .titulo.mb-5(data-aos="fade-right")
       .titulo__icono
@@ -90,7 +92,9 @@
       )
       .bloque-texto-g__texto.p-4.p-lg-5
         p.mb-0 La encuesta es una técnica ampliamente utilizada en los procesos de investigación para identificar problemáticas, conocer percepciones y recopilar información de un grupo amplio de personas. Su principal ventaja consiste en la posibilidad de obtener datos de manera sistemática, organizada y en un tiempo relativamente corto, lo que facilita el análisis de diferentes situaciones o fenómenos.
-
+    
+    p.mb-5 Para garantizar la confiabilidad de los resultados, la encuesta debe aplicarse mediante un proceso estructurado, que incluya la formulación clara de las preguntas, la adecuada definición de la población o muestra y un análisis riguroso de la información obtenida. Cuando se diseña y se implementa de manera adecuada, esta técnica permite identificar tendencias, interpretar opiniones y comprender necesidades presentes en un contexto específico. 
+    
     .titulo.mb-5(data-aos="fade-right")
       .titulo__icono
       .titulo__texto
