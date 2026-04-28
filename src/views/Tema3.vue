@@ -121,7 +121,7 @@
               .tarjeta.bg-white.p-4.p-lg-5.h-100
                 TarjetaAudio.color-acento-botones.mb-4(
                 texto="Pódcast: Transformación educativa en entornos virtuales"
-                :audio="require('@/assets/actividad/audio/screen-change.mp3')"
+                :audio="require('@/assets/actividad/audio/PodcastCF1_41430001_Asesoria_para_el_uso_de_las_TIC_en_la_formacion.mp3')"
             ).mb-4
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
                 p.mb-0 Lo invitamos a visitar el siguiente pódcast en donde encontrará información sobre este gran proceso de transformación de la educación.
