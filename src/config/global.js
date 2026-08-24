@@ -51,7 +51,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Sociedad de la informacion',
+            titulo: 'Sociedad de la información',
             hash: 't_1_3',
           },
           {
@@ -160,7 +160,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF1_41430001_DU.pdf',
+        download: 'downloads/41430001_CF01_CFA.zip',
       },
       {
         icono: 'fas fa-download',
@@ -298,8 +298,8 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -352,7 +352,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

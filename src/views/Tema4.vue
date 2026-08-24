@@ -21,19 +21,19 @@
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema4/2.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema4/2.svg')
           p.mb-0 En primer lugar, la sociedad de la información se caracteriza por el acceso masivo a datos y contenidos digitales, facilitado por el desarrollo de tecnologías que permiten almacenar, procesar y difundir información a gran escala. En este contexto, el principal desafío consiste en localizar y gestionar adecuadamente la información disponible.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema4/3.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema4/3.svg')
           p.mb-0 Posteriormente surge la sociedad del conocimiento, en la cual el énfasis ya no se limita al acceso a la información, sino a la capacidad de interpretarla, analizarla y transformarla en conocimiento útil para resolver problemas, generar innovación y apoyar la toma de decisiones.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema4/4.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema4/4.svg')
           p.mb-0 Finalmente, la sociedad red destaca la importancia de la interconexión entre personas, organizaciones y sistemas mediante redes digitales que posibilitan la colaboración, el intercambio permanente de información y la construcción colectiva del conocimiento.
     
     p.mb-5(data-aos="fade-right") Esta evolución implica una transformación progresiva de los procesos formativos: se pasa de enseñar a buscar información, a formar para analizarla y aplicarla, y posteriormente a aprender de manera colaborativa en entornos digitales interconectados.
@@ -78,12 +78,12 @@
                 td Orientador del pensamiento crítico.
                 td Dinamizador de comunidades de aprendizaje.
     
-    p.mb-5 En la transición hacia la sociedad del conocimiento y en red, la formación se centra en construir conocimiento a partir de la información. En este contexto, las encuestas son una técnica clave, ya que permiten recolectar datos sobre necesidades y percepciones, facilitando el análisis, la toma de decisiones y el aprendizaje en entornos dinámicos y colaborativos. 
+    p.mb-5  En la transición hacia la sociedad del conocimiento y en red, la formación se centra en construir conocimiento a partir de la información. En este contexto, la encuesta constituye una técnica de recolección de información que permite identificar necesidades, percepciones y tendencias de una población. Además, las tecnologías digitales facilitan su aplicación, sistematización y análisis, así como la socialización colaborativa de los resultados.
 
     .titulo.mb-5(data-aos="fade-right")
       .titulo__icono
       .titulo__texto
-        img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
+        img(:src="require('@/assets/curso/tema3/sub.svg')")
         h3.mb-0 La encuesta como técnica de recolección de información
 
     .bloque-texto-g.color-primario.p-4.p-lg-5.p-md-4.mb-5(data-aos="fade-left")
@@ -98,14 +98,14 @@
     .titulo.mb-5(data-aos="fade-right")
       .titulo__icono
       .titulo__texto
-        img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
+        img(:src="require('@/assets/curso/tema3/sub.svg')")
         h3.mb-0 Rol del estudiante en la era digital 
     
     p.mb-5(data-aos="fade-right") Para ampliar la comprensión del tema, se presenta a continuación una infografía diseñada para brindar mayor claridad sobre el rol del estudiante, destacando sus funciones, responsabilidades y actitudes clave en el proceso formativo. Este recurso facilita la identificación de buenas prácticas y orienta al estudiante en el desarrollo de un aprendizaje autónomo, participativo y significativo. 
     
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-10
-        img(src='@/assets/curso/tema3/15.svg' alt='AvatarTop')
+        img(src='@/assets/curso/tema3/15.svg')
 
 
 </template>

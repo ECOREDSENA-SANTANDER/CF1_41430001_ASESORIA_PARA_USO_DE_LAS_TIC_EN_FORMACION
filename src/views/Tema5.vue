@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-start.mb-5(data-aos="fade-left")
       .col-lg-5.pe-lg-0.col-md-7.col-10.mb-lg-0.mb-4
-        img.d-none.d-lg-block(src='@/assets/curso/tema5/1.png', alt='')
+        img.d-none.d-lg-block(src='@/assets/curso/tema5/1.png')
       .col-lg-7.ps-lg-0.mb-0
         .bg511.p-4.p-lg-5
           p.mb-3 Las Tecnologías de la Información y la Comunicación (TIC) permiten mejorar la formación profesional al incorporar herramientas digitales que facilitan aprender, practicar y evaluar conocimientos de manera más dinámica.

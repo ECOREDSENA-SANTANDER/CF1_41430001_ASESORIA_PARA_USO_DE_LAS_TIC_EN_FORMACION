@@ -48,7 +48,7 @@
                 td Construcción colaborativa del conocimiento
                 td Facilita el intercambio de ideas y el trabajo en equipo en entornos digitales.
       .col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/tema2/2.png', alt='')
+        img(src='@/assets/curso/tema2/2.png')
 
     .cajon.color-primario.p-lg-5.p-4.mb-0(data-aos="fade-right")
       p.mb-0 De esta manera, la educación mediada por TIC responde a las exigencias de la sociedad digital, donde el acceso a la información, la comunicación virtual y la innovación tecnológica son elementos fundamentales para el desarrollo académico y profesional.
@@ -60,7 +60,7 @@
 
     .row.justify-content-center.align-items-start.mb-5(data-aos="fade-left")
       .col-lg-5.pe-lg-0.col-md-7.col-10.mb-lg-0.mb-4
-        img.d-none.d-lg-block(src='@/assets/curso/tema2/3.png', alt='')
+        img.d-none.d-lg-block(src='@/assets/curso/tema2/3.png')
       .col-lg-7.ps-lg-0.mb-0
         .bg5.p-4.p-lg-5
           p.mb-3 La educación en entornos digitales se refiere al proceso de enseñanza y aprendizaje que se desarrolla mediante plataformas tecnológicas, recursos multimedia y espacios de interacción virtual, que permiten organizar el proceso formativo sin depender exclusivamente del aula física, facilitando así la gestión de contenidos, la realización de actividades, la evaluación del aprendizaje y la comunicación entre tutores y estudiantes.
@@ -80,7 +80,7 @@
                 th Ejemplo
             tbody
               tr
-                td LMS (Learning Management System)
+                td LMS (#[em Learning Management System])
                 td Plataforma que permite organizar cursos, gestionar contenidos, actividades y evaluaciones.
                 td Moodle, Canvas, Blackboard.
               tr
@@ -177,7 +177,7 @@
               tr
                 td Aprendizaje colaborativo.
                 td El conocimiento se construye mediante la interacción, el diálogo y el trabajo en equipo.
-                td Foros, proyectos grupales, wikis colaborativas.
+                td Foros, proyectos grupales, #[em wikis] colaborativas.
               tr
                 td Aprendizaje basado en proyectos (ABP).
                 td Los estudiantes desarrollan proyectos que integran teoría, investigación y solución de problemas.

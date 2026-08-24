@@ -9,7 +9,7 @@
     
     p.mb-5(data-aos="fade-left") La emergencia de un nuevo tipo de sociedad alude a las transformaciones estructurales que ha experimentado la humanidad en las últimas décadas como resultado de la articulación entre globalización, desarrollo tecnológico y circulación masiva de información; con ello, se han redefinido las formas de comunicarse, producir conocimiento, trabajar y aprender, configurando escenarios sociales interconectados donde el acceso al saber y la interacción cultural ocurren en tiempo real. 
     
-    .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.bloque1.p-4.p-lg-5.mb-0
           .bloque-texto-g__img(
@@ -18,15 +18,12 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Este nuevo orden social se sustenta en dinámicas que posteriormente se profundizan: la influencia de la globalización en la cultura contemporánea, el papel de la tecnología como motor de cambio, la consolidación de la sociedad de la información, la evolución hacia la sociedad del conocimiento, la organización en estructuras de sociedad de red y sus implicaciones para la educación. Comprender esta emergencia permite contextualizar los cambios educativos actuales y orientar procesos formativos pertinentes frente a las demandas del mundo digital.
     
-    .cajon.color-primario.p-lg-5.p-4.mb-0(data-aos="fade-left")
-      p.mb-0 Este nuevo orden social se sustenta en dinámicas que posteriormente se profundizan: la influencia de la globalización en la cultura contemporánea, el papel de la tecnología como motor de cambio, la consolidación de la sociedad de la información, la evolución hacia la sociedad del conocimiento, la organización en estructuras de sociedad de red y sus implicaciones para la educación. Comprender esta emergencia permite contextualizar los cambios educativos actuales y orientar procesos formativos pertinentes frente a las demandas del mundo digital.
-    
 
     separador
     #t_1_1.titulo-segundo.mb-5
       h2 1.1 Globalización y cultura contemporánea
 
-    p.mb-4(data-aos="fade-right") La globalización ha transformado profundamente las dinámicas sociales al reducir las barreras de tiempo y espacio, permitiendo que la información, los bienes culturales, las innovaciones tecnológicas y los modelos educativos circulen de manera inmediata entre países y continentes; llevando a la sociedad, no solo a responder a avances tecnológicos, sino también a procesos económicos, políticos y culturales que han impulsado la interdependencia mundial.
+    p.mb-4(data-aos="fade-right") La globalización ha transformado profundamente las dinámicas sociales al reducir las barreras de tiempo y espacio, permitiendo que la información, los bienes culturales, las innovaciones tecnológicas y los modelos educativos circulen de manera inmediata entre países y continentes, llevando a la sociedad no solo a responder a avances tecnológicos, sino también a procesos económicos, políticos y culturales que han impulsado la interdependencia mundial.
     
     p.mb-4(data-aos="fade-left") La globalización ha generado oportunidades sin precedentes para el acceso, la cooperación y la diversificación de las experiencias de aprendizaje. Hoy la formación ya no se limita al contexto local, por el contrario, se nutre de perspectivas, metodologías y recursos provenientes de distintos sistemas educativos que se pueden reflejar en:
 
@@ -39,19 +36,19 @@
                 h4.mb-4 Programas virtuales internacionales
                 p.mb-0 Instituciones de diferentes países ofertan cursos, diplomados y certificaciones a los que pueden acceder aprendices desde cualquier lugar del mundo. Esto amplía las oportunidades de cualificación, actualización profesional y movilidad académica sin necesidad de desplazamiento físico. Asimismo, favorece el intercambio intercultural y el reconocimiento de estándares formativos globales.
               .col-lg-5.col-md-8.col-10
-                img.mb-0(alt="" src="@/assets/curso/tema1/2.png")
+                img.mb-0(src="@/assets/curso/tema1/2.png")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-6.mb-lg-0.mb-4
                 h4.mb-4 Redes académicas globales
                 p.mb-0 Docentes, investigadores y aprendices participan en comunidades de conocimiento donde comparten experiencias, proyectos, investigaciones y buenas prácticas educativas. Estas redes permiten el trabajo colaborativo internacional, la construcción colectiva de saberes y la generación de soluciones a problemáticas comunes desde diversas realidades.
               .col-lg-5.col-md-8.col-10
-                img.mb-0(alt="" src="@/assets/curso/tema1/3.png")
+                img.mb-0(src="@/assets/curso/tema1/3.png")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-6.mb-lg-0.mb-4
                 h4.mb-4 Recursos educativos abiertos (REA)
                 p.mb-0 La globalización ha impulsado el acceso libre a contenidos formativos como libros digitales, cursos en línea, repositorios académicos, videos educativos y objetos virtuales de aprendizaje. Estos recursos, generalmente bajo licencias abiertas, facilitan la democratización del conocimiento y permiten que instructores y aprendices adapten materiales a sus propios contextos pedagógicos.
               .col-lg-5.col-md-8.col-10
-                img.mb-0(alt="" src="@/assets/curso/tema1/4.png")
+                img.mb-0(src="@/assets/curso/tema1/4.png")
 
     .cajon.color-acento-contenido.p-lg-5.p-4.mb-5(data-aos="fade-left")
       p.mb-0 Por tanto, la globalización ha ampliado el horizonte de la educación, haciendo posible que el aprendizaje sea más accesible, colaborativo e intercultural. Sin embargo, también plantea retos, como la necesidad de desarrollar pensamiento crítico para seleccionar información pertinente y la urgencia de reducir las brechas de acceso tecnológico que aún persisten en diversos territorios.
@@ -59,7 +56,7 @@
     .tarjeta.color-acento-botones.p-4.mb-0(data-aos="fade-right")
       .row.justify-content-around.align-items-center
         .col-lg-5.col-md-4.col-8.mb-4.mb-md-0
-          img.img-t.img-a(src='@/assets/curso/tema1/5.svg' alt='AvatarTop')
+          img.img-t.img-a(src='@/assets/curso/tema1/5.svg')
         .col-lg-7.col-md-8
           h3.mb-2 Globalización y su impacto en la educación y la cultura contemporánea
           .enca.mb-4
@@ -77,7 +74,7 @@
 
     .row.mb-5(data-aos="fade-right")         
       .col-lg-12
-        img(src='@/assets/curso/tema1/6.png' alt='AvatarTop')
+        img(src='@/assets/curso/tema1/6.png')
 
     p.mb-5(data-aos="fade-left") A lo largo de la historia, cada avance tecnológico ha producido transformaciones significativas en la organización de la sociedad. Por ejemplo, la invención de la imprenta facilitó la masificación del conocimiento escrito; la radio y la televisión ampliaron el acceso a la información; e Internet consolidó la comunicación global en tiempo real.
 
@@ -103,7 +100,7 @@
               i.fas.fa-globe
               p.mb-0 Impulsar el teletrabajo y el trabajo en red.
         .col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/tema1/7.png' alt='AvatarTop')
+          img(src='@/assets/curso/tema1/7.png')
     
     p.mb-5(data-aos="fade-left") En el ámbito educativo, su impacto ha sido igualmente profundo, pues la tecnología ha transformado:
 
@@ -112,21 +109,21 @@
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema1/8.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/8.svg')
           h4.text-center.mb-4 Las formas de enseñar
           p.mb-0 El docente ya no depende exclusivamente de la exposición oral. Puede apoyarse en simuladores, videos, plataformas virtuales, laboratorios digitales y recursos interactivos que enriquecen la experiencia formativa.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema1/9.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/9.svg')
           h4.text-center.mb-4 Las formas de aprender
           p.mb-0 El aprendizaje dejó de ser exclusivamente presencial. Hoy puede darse de manera autónoma, asincrónica, colaborativa y ubicua, es decir, en cualquier momento y lugar.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema1/10.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/10.svg')
           h4.text-center.mb-4 Las formas de producir conocimiento
           p.mb-0 Los estudiantes no solo consumen información; también crean contenidos digitales, participan en comunidades de aprendizaje y construyen saber de manera colectiva.
 
@@ -214,9 +211,10 @@
 
     separador
     #t_1_3.titulo-segundo.mb-5
-      h2 1.3 Sociedad de la informacion
+      h2 1.3 Sociedad de la información
     
-    p.mb-4(data-aos="fade-right") La sociedad de la información se define por la producción, circulación y acceso masivo a datos a través de medios digitales. La información se convierte en un recurso estratégico para el desarrollo social, económico, científico y educativo, así mismo, su disponibilidad inmediata transforma la manera en que las personas aprenden, trabajan y toman decisiones.
+    p.mb-4(data-aos="fade-right") La sociedad de la información se define por la producción, circulación y acceso masivo a datos a través de medios digitales. La información se convierte en un recurso estratégico para el desarrollo social, económico, científico y educativo. Asímismo, su disponibilidad inmediata transforma la manera en que las personas aprenden, trabajan y toman decisiones.
+
     p.mb-4(data-aos="fade-left") Este modelo social surge con la expansión de Internet, las tecnologías de la comunicación y los sistemas de almacenamiento digital, que permiten consultar en segundos, volúmenes de información que antes requerían largos procesos de búsqueda en fuentes físicas.
     
     .cajon.color-primario.p-lg-5.p-4.mb-5(data-aos="fade-right")
@@ -231,21 +229,21 @@
             .col-lg-6.mb-lg-0.mb-4
               p.mb-0 Los estudiantes deben desarrollar habilidades para identificar fuentes académicas, científicas e institucionales, diferenciándolas de contenidos sin respaldo. Esto incluye reconocer autoría, fecha de publicación, intencionalidad y evidencia utilizada.
             .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema1/17.png', alt='')
+              img(src='@/assets/curso/tema1/17.png')
       .row.justify-content-center.align-items-center.p-0(titulo="Filtrar contenidos")
         .col-lg-11.mb-0
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-6.mb-lg-0.mb-4
               p.mb-0 Ante la sobreoferta informativa, es necesario aprender a seleccionar lo pertinente según objetivos de aprendizaje. Filtrar supone jerarquizar, contrastar y organizar la información relevante, descartando aquella que no aporta valor formativo.
             .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema1/27.png', alt='')
+              img(src='@/assets/curso/tema1/27.png')
       .row.justify-content-center.align-items-center.p-0(titulo="Evitar la infoxicación")
         .col-lg-11.mb-0
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-6.mb-lg-0.mb-4
-              p.mb-0 La “infoxicación” hace referencia a la saturación de información que dificulta la comprensión y la toma de decisiones. El exceso de datos, notificaciones y estímulos digitales puede generar dispersión cognitiva, aprendizaje superficial y desinformación.
+              p.mb-0 La infoxicación hace referencia a la saturación de información que dificulta la comprensión y la toma de decisiones. El exceso de datos, notificaciones y estímulos digitales puede generar dispersión cognitiva, aprendizaje superficial y desinformación.
             .col-lg-6.col-md-10.col-10
-              img(src='@/assets/curso/tema1/28.png', alt='')
+              img(src='@/assets/curso/tema1/28.png')
     
     p.mb-5(data-aos="fade-left") Por ello, la formación en la sociedad de la información debe incluir competencias informacionales y digitales, tales como:
 
@@ -343,7 +341,7 @@
     .titulo.mb-5(data-aos="fade-right")
       .titulo__icono
       .titulo__texto
-        img(:src="require('@/assets/curso/tema3/sub.svg')" alt='Imagen decorativa')
+        img(:src="require('@/assets/curso/tema3/sub.svg')")
         h3.mb-0 Proceso de transformación de información en innovación
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
@@ -357,7 +355,7 @@
 
     .row.justify-content-center.align-items-start.mb-5(data-aos="fade-right")
       .col-lg-5.pe-lg-0.col-md-7.col-10.mb-lg-0.mb-4
-        img.d-none.d-lg-block(src='@/assets/curso/tema1/19.png', alt='')
+        img.d-none.d-lg-block(src='@/assets/curso/tema1/19.png')
       .col-lg-7.ps-lg-0.mb-0
         .bg5.p-4.p-lg-5
           p.mb-3 Este concepto explica que la sociedad contemporánea ya no se estructura únicamente en instituciones jerárquicas tradicionales, sino en redes de nodos interconectados. Los nodos pueden ser personas, instituciones, plataformas digitales, comunidades o sistemas de información que se relacionan dinámicamente mediante flujos constantes de datos, conocimiento y comunicación.

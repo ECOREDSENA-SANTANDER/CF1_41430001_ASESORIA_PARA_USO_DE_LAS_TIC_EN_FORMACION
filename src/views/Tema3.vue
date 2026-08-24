@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-start.mb-0(data-aos="fade-left")
       .col-lg-5.pe-lg-0.col-md-7.col-10.mb-lg-0.mb-4
-        img.d-none.d-lg-block(src='@/assets/curso/tema3/1.png', alt='')
+        img.d-none.d-lg-block(src='@/assets/curso/tema3/1.png')
       .col-lg-7.ps-lg-0.mb-0
         .bg51.p-4.p-lg-5
           p.mb-3 Los roles formativos mediados por tecnologías hacen referencia a las funciones, responsabilidades y competencias que asumen tutores y estudiantes dentro de procesos educativos apoyados en TIC. La mediación tecnológica no solo introduce herramientas, sino que redefine la manera en que se orienta, acompaña y construye el aprendizaje, desplazando modelos centrados en la transmisión hacia dinámicas participativas, flexibles y colaborativas. 
@@ -28,21 +28,21 @@
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema3/3.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/3.svg')
           h4.text-center.mb-4 Pedagógicas
           p.mb-0 Diseño de actividades significativas, evaluación formativa y mediación didáctica.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema3/4.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/4.svg')
           h4.text-center.mb-4 Tecnológicas
           p.mb-0 Manejo de plataformas LMS, herramientas colaborativas y recursos digitales.
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-4
           .row.justify-content-center.align-items-center.mb-0
             .col-5.mb-4.my-4
-              img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/5.svg')
           h4.text-center.mb-4 Comunicativas
           p.mb-0 Interacción asertiva, motivación, retroalimentación oportuna y construcción de clima de confianza virtual.
     
@@ -72,7 +72,7 @@
 
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-3.d-none.d-lg-block
-        img.h-100(src='@/assets/curso/tema3/7.png', alt='')
+        img.h-100(src='@/assets/curso/tema3/7.png')
       .col-lg-9
         .bg10.cen.p-lg-5.p-4.h-100
           p.mb-0.mx-lg-3 Por una parte, el tutor docente es recursivo y es capaz de #[b transformar las limitaciones en oportunidades de aprendizaje], utilizando de manera creativa los recursos disponibles; esto implica diseñar materiales propios, reutilizar recursos educativos abiertos, integrar redes sociales con fines pedagógicos y generar estrategias didácticas que faciliten la comprensión y la participación de los estudiantes. De esta manera, el tutor no depende exclusivamente de herramientas sofisticadas, sino que aprovecha el potencial de los recursos existentes para enriquecer el proceso formativo.
@@ -114,13 +114,13 @@
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
-        img(src='@/assets/curso/tema3/14.svg', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema3/14.svg')
         .row.justify-content-center.g-0
           .col-lg-12
             .tarjeta.bg11.p-4.rounded-0.h-100
               .tarjeta.bg-white.p-4.p-lg-5.h-100
                 TarjetaAudio.color-acento-botones.mb-4(
-                texto="Pódcast: Transformación educativa en entornos virtuales"
+                texto="Pódcast: transformación educativa en entornos virtuales"
                 :audio="require('@/assets/actividad/audio/PodcastCF1_41430001_Asesoria_para_el_uso_de_las_TIC_en_la_formacion.mp3')"
             ).mb-4
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
