@@ -313,7 +313,7 @@ export default {
       autores: [
         {
           nombre: 'Carlos Andrés Bonza Reyes',
-          cargo: 'Experto TIC',
+          cargo: 'Experto temático',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

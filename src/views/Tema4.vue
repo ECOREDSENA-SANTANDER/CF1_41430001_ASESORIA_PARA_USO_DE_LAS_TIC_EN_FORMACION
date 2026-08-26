@@ -101,13 +101,90 @@
         img(:src="require('@/assets/curso/tema3/sub.svg')")
         h3.mb-0 Rol del estudiante en la era digital 
     
-    p.mb-5(data-aos="fade-right") Para ampliar la comprensión del tema, se presenta a continuación una infografía diseñada para brindar mayor claridad sobre el rol del estudiante, destacando sus funciones, responsabilidades y actitudes clave en el proceso formativo. Este recurso facilita la identificación de buenas prácticas y orienta al estudiante en el desarrollo de un aprendizaje autónomo, participativo y significativo. 
+    p.mb-5(data-aos="fade-right") El estudiante es gestor activo de su aprendizaje en la educación mediada por tecnologías.  
     
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-10
-        img(src='@/assets/curso/tema3/15.svg')
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-8
+        .titulo-sexto.mb-4
+          h5 Tabla 9.
+          | Rol del estudiante 
+        .tabla-a.tab1.mb-0
+          table
+            thead
+              tr
+                th Rol estudiante
+                th Características y acciones principales
+            tbody
+              tr
+                td Autónomo
+                td
+                  ul.lista-ul.mb-0
+                    li.d-flex 
+                      i.lista-ul__vineta
+                      | Administra su tiempo.
+                    li 
+                      i.lista-ul__vineta
+                      | Planifica sus actividades.
+                    li 
+                      i.lista-ul__vineta
+                      | Regula su ritmo de estudio.
+              tr
+                td Investigador
+                td
+                  ul.lista-ul.mb-0
+                    li.d-flex 
+                      i.lista-ul__vineta
+                      | Busca y contrasta información.
+                    li.d-flex 
+                      i.lista-ul__vineta
+                      | Valida múltiples fuentes.
+              tr
+                td Colaborador
+                td
+                  ul.lista-ul.mb-0
+                    li.d-flex 
+                      i.lista-ul__vineta
+                      | Participa en comunidades virtuales.
+                    li.d-flex 
+                      i.lista-ul__vineta
+                      | Interviene en foros y proyectos colectivos.
+              tr
+                td Creador de contenidos
+                td
+                  ul.lista-ul.mb-0
+                    li.d-flex 
+                      i.lista-ul__vineta
+                      | Produce recursos digitales.
+                    li.d-flex 
+                      i.lista-ul__vineta
+                      |  Genera proyectos de aprendizaje.
+        
+    .titulo.mb-5(data-aos="fade-right")
+      .titulo__icono
+      .titulo__texto
+        img(:src="require('@/assets/curso/tema3/sub.svg')")
+        h3.mb-0 Impacto en la formación y proyección del estudiante 
+    
+    p.mb-5(data-aos="fade-right") Estos roles fortalecen las competencias necesarias para aprender continuamente y desenvolverse en entornos académicos y laborales digitalizados. 
 
-
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
+      .col-lg-8
+        .titulo-sexto.mb-4
+          h5 Tabla 10.
+          | Impactos generados
+        .tabla-a.tab1.mb-0
+          table
+            thead
+              tr
+                th Impacto generado
+                th Características y acciones principales
+            tbody
+              tr
+                td Aprendizaje permanente
+                td Fortalece competencias para aprender, actualizar sus conocimientos y adaptarse continuamente a nuevos contextos.
+              tr
+                td Inserción laboral en entornos digitales
+                td Desarrolla habilidades tecnológicas, colaborativas y creativas que facilitan su desempeño en escenarios laborales digitalizados.
 </template>
 
 <script>

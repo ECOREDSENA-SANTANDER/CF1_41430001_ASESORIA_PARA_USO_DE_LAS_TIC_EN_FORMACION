@@ -213,7 +213,7 @@
     #t_1_3.titulo-segundo.mb-5
       h2 1.3 Sociedad de la información
     
-    p.mb-4(data-aos="fade-right") La sociedad de la información se define por la producción, circulación y acceso masivo a datos a través de medios digitales. La información se convierte en un recurso estratégico para el desarrollo social, económico, científico y educativo. Asímismo, su disponibilidad inmediata transforma la manera en que las personas aprenden, trabajan y toman decisiones.
+    p.mb-4(data-aos="fade-right") La sociedad de la información se define por la producción, circulación y acceso masivo a datos a través de medios digitales. La información se convierte en un recurso estratégico para el desarrollo social, económico, científico y educativo. Asimismo, su disponibilidad inmediata transforma la manera en que las personas aprenden, trabajan y toman decisiones.
 
     p.mb-4(data-aos="fade-left") Este modelo social surge con la expansión de Internet, las tecnologías de la comunicación y los sistemas de almacenamiento digital, que permiten consultar en segundos, volúmenes de información que antes requerían largos procesos de búsqueda en fuentes físicas.
     

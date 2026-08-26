@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
-          h5 Tabla 9.
+          h5 Tabla 11.
           | Aplicaciones de las TIC en la formación
         .tabla-a.tab3
           table
