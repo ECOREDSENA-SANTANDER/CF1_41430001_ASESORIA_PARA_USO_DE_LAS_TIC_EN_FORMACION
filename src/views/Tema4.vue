@@ -50,7 +50,7 @@
                 th Criterio
                 th Sociedad de la información
                 th Sociedad del conocimiento
-                th Sociedad de red
+                th Sociedad red
             tbody
               tr
                 td Enfoque
